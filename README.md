@@ -1,9 +1,7 @@
 # Bulldog Warriors
 Model The Future Work
 
-# Graphs
-
->These graphs have been made at 3.am and before. Please don't judge too harshly 
+# Graphs 
 
 ## Annual Seasonal Causes of Loss
 [Autumn](https://arihantbapna.github.io/MtfRWork/graphs/Autumn.html)
