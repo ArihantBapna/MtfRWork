@@ -1,0 +1,626 @@
+Year,StateCode,StateAbb,CountyCode,CountyName,CommodityCode,CommodityName,InsurancePlanCode,InsurancePlanAbb,CoverageCategory,StageCode,CauseOfLossCode,CauseOfLossDescription,MonthOfLoss,MonthOfLossName,YearOfLoss,PoliciesEarningPremium,PoliciesIndemnified,NetPlantedAcres,NetEndorsedAcres,Liability,TotalPremium,ProducerPaidPremium,Subsidy,PrivateSubsidy,AdditionalSubsidy,EFAPremiumDiscount,NetAcresLoss,Indemnity,IndemnityByPremium
+2009,6,CA,11,Colusa                        ,18,RICE                          ,90,,A,H ,12,Heat,7,JUL,2009,1,1,351,0,252541,14566,6555,8011,0,0,0,351,25267,1.73
+2009,6,CA,11,Colusa                        ,18,RICE                          ,90,,A,P2,13,Failure of Irrigation Supply,5,MAY,2009,1,1,93.7,0,36086,2060,845,1215,0,0,0,93.7,36086,17.52
+2009,6,CA,11,Colusa                        ,18,RICE                          ,90,,A,H ,61,Wind/Excess Wind                                                                                    ,6,JUN,2009,2,2,305.5,0,243370,10090,4137,5953,0,0,0,309.4,13187,1.31
+2009,6,CA,11,Colusa                        ,18,RICE                          ,90,,A,H ,61,Wind/Excess Wind                                                                                    ,4,APR,2009,1,1,78,0,60101,3802,1711,2091,0,0,0,78,2563,0.67
+2009,6,CA,21,Glenn                         ,18,RICE                          ,90,,A,P2,13,Failure of Irrigation Supply,1,JAN,2009,1,1,63.64,0,24770,4671,2896,1775,0,0,0,63.64,24770,5.3
+2009,6,CA,21,Glenn                         ,18,RICE                          ,90,,A,PT,13,Failure of Irrigation Supply,1,JAN,2009,1,1,78,0,38081,2515,1031,1484,0,0,0,78,38081,15.14
+2009,6,CA,47,Merced                        ,18,RICE                          ,90,,A,PT,13,Failure of Irrigation Supply,5,MAY,2009,4,4,280.5,0,122853,8911,3654,5257,0,0,0,280.5,122853,13.79
+2009,6,CA,49,Modoc                         ,55,RICE                          ,90,,A,H ,21,Hail,6,JUN,2009,1,1,30,0,24300,3104,1397,1707,0,0,0,30,21674,6.98
+2009,6,CA,61,Placer                        ,18,RICE                          ,90,,A,H ,31,Excess Moisture/Precipitation/Rain,8,AUG,2009,1,1,80.85,0,47350.05,3872,2400.75,1471.25,0,0,0,80.85,10433.5,2.69
+2009,6,CA,61,Placer                        ,18,RICE                          ,90,,A,H ,61,Wind/Excess Wind                                                                                    ,8,AUG,2009,1,1,66.15,0,38740.95,3168,1964.25,1203.75,0,0,0,66.15,8536.5,2.69
+2009,6,CA,77,San Joaquin                   ,18,RICE                          ,90,,A,H ,44,Cold Wet Weather,8,AUG,2009,1,1,38,0,41319,2452,1275,1177,0,0,0,39.9,2618,1.07
+2009,6,CA,77,San Joaquin                   ,18,RICE                          ,44,,A,R ,61,Wind/Excess Wind                                                                                    ,5,MAY,2009,1,1,271.4,0,205285,21255,9565,11690,0,0,0,100.4,5261,0.25
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,C,H ,12,Heat,6,JUN,2009,1,1,22,0,6982.25,154.55,0,154.55,0,0,0,22,4120.05,26.66
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,H ,12,Heat,6,JUN,2009,1,1,318,0,204464,13984,7272,6712,0,0,0,318,53080.8,3.8
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,C,H ,12,Heat,7,JUL,2009,2,2,150,0,54224,1015,0,1015,0,0,0,150,1539,1.52
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,PT,13,Failure of Irrigation Supply,1,JAN,2009,1,1,75,0,38063,4877,2536,2341,0,0,0,75,38063,7.8
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,H ,31,Excess Moisture/Precipitation/Rain,7,JUL,2009,1,1,79.5,0,51116,3496,1818,1678,0,0,0,79.5,13270.2,3.8
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2009,2,2,511.3,0,413511,37766,22690,15076,0,0,0,511.3,58712,1.55
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,C,H ,31,Excess Moisture/Precipitation/Rain,9,SEP,2009,1,1,18,0,5712.75,126.45,0,126.45,0,0,0,18,3370.95,26.66
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,H ,43,Cold Winter,10,OCT,2009,1,1,60,0,37332,1532,689,843,0,0,0,60,9780,6.38
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,H ,99,"Other (Snow,Lightning,etc)                                                                        ",6,JUN,2009,1,1,255,0,230106,16582,8623,7959,0,0,0,255,41144,2.48
+2009,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,H ,99,"Other (Snow,Lightning,etc)                                                                        ",9,SEP,2009,1,1,53.25,0,49130,3116,1620,1496,0,0,0,53.25,16131,5.18
+2009,6,CA,113,Yolo                          ,18,RICE                          ,90,,C,P2,13,Failure of Irrigation Supply,1,JAN,2009,1,1,15,0,2022,113,0,113,0,0,0,15,2022,17.89
+2009,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,P2,13,Failure of Irrigation Supply,1,JAN,2009,4,4,2730.4,0,1099509,191002,113860,77142,0,0,0,2730.4,1099509,5.76
+2009,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,P2,13,Failure of Irrigation Supply,5,MAY,2009,5,5,1578.63,0,659103,121698,75453,46245,0,0,0,1578.63,659103,5.42
+2009,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2009,4,4,684.8,0,585396.3,36573.8,16315.8,20258,0,0,0,694.01,98275.65,2.69
+2009,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,H ,61,Wind/Excess Wind                                                                                    ,10,OCT,2009,2,2,312.3,0,269804.7,18556.2,8350.2,10206,0,0,0,319.59,72280.35,3.9
+2009,6,CA,113,Yolo                          ,55,RICE                          ,90,,C,H ,61,Wind/Excess Wind                                                                                    ,7,JUL,2009,1,1,52.5,0,17047.8,395.4,0,395.4,0,0,0,52.5,15574.2,39.39
+2009,6,CA,113,Yolo                          ,55,RICE                          ,90,,C,H ,93,Wildlife,7,JUL,2009,1,1,35,0,11365.2,263.6,0,263.6,0,0,0,35,10382.8,39.39
+2010,6,CA,99,Stanislaus                    ,18,RICE                          ,90,,A,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2010,1,1,16,0,4290,269,97,172,0,0,0,16,4290,15.95
+2010,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2010,8,8,825.19,0,278701.8,17670.4,7125.4,10545,0,0,0,826.09,278701.8,15.77
+2010,6,CA,101,Sutter                        ,18,RICE                          ,90,,C,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2010,1,1,51.09,0,4634,156,0,156,0,0,0,51.09,4634,29.71
+2010,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,H ,31,Excess Moisture/Precipitation/Rain,6,JUN,2010,1,1,18.3,0,13363,794,357,437,0,0,0,18.3,7755,9.77
+2010,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2010,5,5,429.16,0,147302.2,7911.6,3082.6,4829,0,0,0,429.76,147302.2,18.62
+2010,6,CA,101,Sutter                        ,18,RICE                          ,90,,A,H ,44,Cold Wet Weather,8,AUG,2010,2,2,324,0,191149,9855,4370,5485,0,0,0,324,75481,7.66
+2010,6,CA,101,Sutter                        ,55,RICE                          ,90,,A,H ,93,Wildlife,8,AUG,2010,1,1,40.6,0,21826,795,326,469,0,0,0,40.6,12968,16.31
+2010,6,CA,103,Tehama                        ,18,RICE                          ,90,,A,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2010,1,1,142.5,0,43278,4452,2003,2449,0,0,0,142.5,43278,9.72
+2010,6,CA,103,Tehama                        ,18,RICE                          ,90,,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2010,2,2,97.7,0,33845,2483,1018,1465,0,0,0,97.7,33845,13.63
+2010,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,UH,12,Heat,6,JUN,2010,1,1,54.65,0,25293.5,1989,895,1094,0,0,0,79.3,35853,18.03
+2010,6,CA,113,Yolo                          ,18,RICE                          ,90,,C,P2,31,Excess Moisture/Precipitation/Rain,6,JUN,2010,1,1,230.6,0,11963,1488,0,1488,0,0,0,230.6,11963,8.04
+2010,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2010,1,1,96.97,0,28129,1557,514,1043,0,0,0,96.97,28129,18.07
+2010,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2010,2,2,70.45,0,8068,512.5,171.5,341,0,0,0,97.9,11196,21.85
+2010,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2010,4,4,1240.4,0,425058,25657,9982,15675,0,0,0,1240.4,425058,16.57
+2010,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,H ,44,Cold Wet Weather,6,JUN,2010,3,3,547.14,0,412464,30000,17147,12853,0,0,0,552.88,77599,2.59
+2010,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,H ,44,Cold Wet Weather,7,JUL,2010,2,2,445.05,0,260125,15174,6649,8525,0,0,0,471.4,40180,2.65
+2010,6,CA,113,Yolo                          ,18,RICE                          ,90,,A,H ,44,Cold Wet Weather,8,AUG,2010,8,8,1860.2,0,1140082.5,71762.5,31425,40337.5,0,0,0,1883.2,411172,5.73
+2010,6,CA,115,Yuba                          ,18,RICE                          ,90,,A,H ,12,Heat,7,JUL,2010,1,1,124,0,107014,8535,5292,3243,0,0,0,124,5649,0.66
+2010,6,CA,115,Yuba                          ,18,RICE                          ,90,,A,H ,31,Excess Moisture/Precipitation/Rain,9,SEP,2010,1,1,220,0,107964,3069,1013,2056,0,0,0,220,12367,4.03
+2010,6,CA,115,Yuba                          ,18,RICE                          ,90,,A,PT,31,Excess Moisture/Precipitation/Rain,6,JUN,2010,1,1,38,0,13183,1668,751,917,0,0,0,38,13183,7.9
+2011,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,C,H ,21,Hail,10,OCT,2011,1,1,406.8,0,140956,2814,0,2814,0,0,0,106.8,10546,3.75
+2011,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,C,UH,21,Hail,10,OCT,2011,1,1,813.6,0,281912,5628,0,5628,0,0,0,25.1,8069,1.43
+2011,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2011,1,1,1124.08,0,949308.8,28560.8,11709.6,16851.2,0,0,0,103.84,50321.6,1.76
+2011,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,6,JUN,2011,1,1,281.02,0,237327.2,7140.2,2927.4,4212.8,0,0,0,25.96,12580.4,1.76
+2011,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,H ,44,Cold Wet Weather,9,SEP,2011,2,2,132.45,0,120112,7790,3506,4284,0,0,0,132.45,36128,4.64
+2011,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2011,1,1,630.4,0,603820,27905,12557,15348,0,0,0,124,71671,2.57
+2011,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2011,2,2,274.626,0,128840,14784,6105,8679,0,0,0,208.326,83773,5.67
+2011,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2011,5,5,2707.5,0,1100963,152037,76045,75992,0,0,0,2051.074,779801,5.13
+2011,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2011,1,1,74.415,0,73490.34,5759.16,2994.75,2764.41,0,0,0,74.415,24823.26,4.31
+2011,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,H ,44,Cold Wet Weather,6,JUN,2011,1,1,74.415,0,73490.34,5759.16,2994.75,2764.41,0,0,0,74.415,24823.26,4.31
+2011,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,H ,93,Wildlife,5,MAY,2011,1,1,76.67,0,75717.32,5933.68,3085.5,2848.18,0,0,0,76.67,25575.48,4.31
+2011,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,6,JUN,2011,4,4,355.2,0,199306,8623,3513,5110,0,0,0,355.2,66137,7.67
+2011,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2011,4,4,1700.1,0,930698,79221,35147,44074,0,0,0,1440.7,666780,8.42
+2011,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,61,Wind/Excess Wind,5,MAY,2011,1,1,205,0,228890,17664,10952,6712,0,0,0,205,4832,0.27
+2011,6,CA,101,Sutter                        ,55,RICE                          ,90,APH       ,A,H ,12,Heat,6,JUN,2011,1,1,80.9,0,41793,1777,800,977,0,0,0,80.9,32219,18.13
+2011,6,CA,113,Yolo                          ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2011,3,3,439.904,0,228219.44,26670.22,10934.72,15735.5,0,0,0,324.899,145324.04,5.45
+2011,6,CA,113,Yolo                          ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,6,JUN,2011,2,2,230.496,0,130263.56,11917.78,4886.28,7031.5,0,0,0,120.001,50618.96,4.25
+2011,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2011,1,1,223.3,0,109831,10365,4250,6115,0,0,0,223.3,38441,3.71
+2011,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,6,JUN,2011,4,4,593.262,0,383585.06,28752.14,12414.46,16337.68,0,0,0,260.887,121656.95,4.23
+2011,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,6,JUN,2011,1,1,201.5,0,199710,12138,5462,6676,0,0,0,201.5,84482,6.96
+2011,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2011,3,3,385.713,0,274325.94,23860.86,10737.54,13123.32,0,0,0,207.213,103303.05,4.33
+2012,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,R ,61,Wind/Excess Wind,6,JUN,2012,1,1,170.8,0,155039,7578,3410,4168,0,0,0,31.2,1835,0.24
+2012,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,H ,44,Cold Wet Weather,5,MAY,2012,1,1,262.4,0,103910.4,13814.4,4973.4,8841,0,0,0,262.4,80244.6,5.81
+2012,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,H ,44,Cold Wet Weather,4,APR,2012,1,1,263.6,0,104385.6,13447.6,4841.6,8606,0,0,0,263.6,68164.4,5.07
+2012,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,5,MAY,2012,1,1,528.6,0,274412,40723,16697,24026,0,0,0,528.6,72228,1.77
+2012,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,UH,12,Heat,6,JUN,2012,1,1,45.4,0,31200,3058,1896,1162,0,0,0,8.5,1927,0.63
+2012,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2012,1,1,45.4,0,31200,3058,1896,1162,0,0,0,82.3,18652,6.1
+2012,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2012,4,4,102.138,0,50282,4068,1765,2303,0,0,0,102.138,50282,12.36
+2012,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2012,3,3,527.5,0,200609,23741,11988,11753,0,0,0,527.5,200609,8.45
+2012,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2012,2,2,497.5,0,123982,13774,5648,8126,0,0,0,497.5,123982,9
+2012,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,R ,93,Wildlife,5,MAY,2012,1,1,99.6,0,99882,5823,2620,3203,0,0,0,47,2764,0.47
+2012,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,UH,31,Excess Moisture/Precipitation/Rain,5,MAY,2012,1,1,31.25,0,23512.5,442,181.25,260.75,0,0,0,6.85,5154,11.66
+2012,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,31,Excess Moisture/Precipitation/Rain,5,MAY,2012,1,1,31.25,0,23512.5,442,181.25,260.75,0,0,0,55.65,16000,36.2
+2012,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,UH,44,Cold Wet Weather,5,MAY,2012,1,1,44,0,18876,616.4,252.8,363.6,0,0,0,44,18876,30.62
+2012,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,44,Cold Wet Weather,6,JUN,2012,1,1,484.38,0,260160,6914.4,2835,4079.4,0,0,0,484.38,48827.4,7.06
+2012,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,UH,44,Cold Wet Weather,6,JUN,2012,1,1,66,0,28314,924.6,379.2,545.4,0,0,0,66,28314,30.62
+2012,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,44,Cold Wet Weather,5,MAY,2012,4,4,598.52,0,303550,8462.6,3469,4993.6,0,0,0,598.52,83650.6,9.88
+2012,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,UH,93,Wildlife,5,MAY,2012,1,1,31.25,0,23512.5,442,181.25,260.75,0,0,0,6.85,5154,11.66
+2012,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,5,MAY,2012,1,1,31.25,0,23512.5,442,181.25,260.75,0,0,0,55.65,16000,36.2
+2012,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2012,5,5,282,0,137041,3646.5,1485,2161.5,0,0,0,311.7,50633,13.89
+2012,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,UH,12,Heat,6,JUN,2012,2,2,86.9,0,42026,1538.5,664,874.5,0,0,0,57.2,28924,18.8
+2012,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2012,8,8,618.65,0,264456,21280,9000,12280,0,0,0,621.75,264456,12.43
+2012,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2012,1,1,139,0,59276,7454,3876,3578,0,0,0,139.5,59276,7.95
+2012,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2012,3,3,243.5,0,105909,10091,4504,5587,0,0,0,243.5,105909,10.5
+2012,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,R ,81,Plant Disease,5,MAY,2012,1,1,161.8,0,114784,2912,1048,1864,0,0,0,161.8,9514,3.27
+2012,6,CA,101,Sutter                        ,55,RICE                          ,90,APH       ,A,H ,12,Heat,6,JUN,2012,1,1,27,0,14672,651,267,384,0,0,0,27,7164,11
+2012,6,CA,101,Sutter                        ,55,RICE                          ,90,APH       ,A,H ,61,Wind/Excess Wind,6,JUN,2012,1,1,229,0,124691,6245,2810,3435,0,0,0,229,45069,7.22
+2012,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2012,2,2,516,0,280638,21157,8374,12783,0,0,0,516,40006,1.89
+2012,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2012,2,2,412,0,163904,24573,10732,13841,0,0,0,412,163904,6.67
+2012,6,CA,113,Yolo                          ,18,RICE                          ,2,RP        ,A,H ,61,Wind/Excess Wind,6,JUN,2012,2,2,470.4,0,239504,15074,6180,8894,0,0,0,470.4,17786,1.18
+2012,6,CA,113,Yolo                          ,55,RICE                          ,90,APH       ,A,H ,61,Wind/Excess Wind,6,JUN,2012,1,1,130,0,72930,3925,1766,2159,0,0,0,130,7423,1.89
+2012,6,CA,115,Yuba                          ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2012,1,1,83.3,0,27784,2933,1320,1613,0,0,0,83.3,27784,9.47
+2012,6,CA,115,Yuba                          ,18,RICE                          ,2,RP        ,A,H ,99,"Other (Snow, Lightning, Etc.)",8,AUG,2012,1,1,32,0,26037,1349,553,796,0,0,0,32,5142,3.81
+2013,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,R ,61,Wind/Excess Wind,4,APR,2013,1,1,147.2,0,152344,4719,944,3775,0,0,0,51.5,3234,0.69
+2013,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,R ,71,Insects,4,APR,2013,1,1,46,0,37396,897,323,574,0,0,0,18.8,1181,1.32
+2013,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,R ,93,Wildlife,4,APR,2013,1,1,36,0,29266,702,253,449,0,0,0,20,1256,1.79
+2013,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,61,Wind/Excess Wind,5,MAY,2013,1,1,184,0,175736,6981,3142,3839,0,0,0,184,27257,3.9
+2013,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,R ,93,Wildlife,5,MAY,2013,1,1,220.8,0,206919,7529,3388,4141,0,0,0,34.96,2195,0.29
+2013,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,61,Wind/Excess Wind,5,MAY,2013,1,1,85.5,0,62285,1395,572,823,0,0,0,85.5,16233,11.64
+2013,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2013,3,3,372.44,0,179323,11505,4695,6810,0,0,0,372.44,179323,15.59
+2013,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,7,JUL,2013,2,2,677.55,0,381502,88681,38591.5,50089.5,0,0,0,1023.9,100993,1.14
+2013,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,UH,93,Wildlife,7,JUL,2013,2,2,604.35,0,339009,81148,35502.5,45645.5,0,0,0,258,95722,1.18
+2013,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2013,1,1,154,0,122341,4410,1808,2602,0,0,0,154,1959,0.44
+2013,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2013,5,5,370.9,0,177194,11112,4615,6497,0,0,0,370.9,177194,15.95
+2013,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2013,1,1,78.8,0,37560,2041,837,1204,0,0,0,78.8,37560,18.4
+2013,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2013,1,1,135,0,67866,6671,3002,3669,0,0,0,135,67866,10.17
+2013,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,H ,93,Wildlife,5,MAY,2013,4,4,241.9835,0,222146,15348,8192,7156,0,0,0,241.9835,41778,2.72
+2013,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,21,Hail,8,AUG,2013,2,2,80.28,0,47610,1457.4,597.4,860,0,0,0,80.28,26194,17.97
+2013,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,61,Wind/Excess Wind,8,AUG,2013,3,3,381.12,0,230616,6926.6,2839.6,4087,0,0,0,381.12,123213,17.79
+2013,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,61,Wind/Excess Wind,9,SEP,2013,1,1,70.59,0,41644.5,1293,530.1,762.9,0,0,0,70.59,4684.2,3.62
+2013,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,99,"Other (Snow, Lightning, Etc.)",9,SEP,2013,1,1,164.71,0,97170.5,3017,1236.9,1780.1,0,0,0,164.71,10929.8,3.62
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2013,4,4,247.7,0,178236,5663,2454,3209,0,0,0,247.7,47413,8.37
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2013,1,1,37,0,17015,416,171,245,0,0,0,37,5155,12.39
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2013,5,5,246.8,0,107949,4960,2034,2926,0,0,0,246.8,107949,21.76
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2013,2,2,71.03,0,28899.7,2298.1,1296.2,1001.9,0,0,0,71.03,28899.7,12.58
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,1,JAN,2013,2,2,121.1,0,17816,616,0,616,0,0,0,121.1,17816,28.92
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2013,1,1,65.8,0,35506,2238,1007,1231,0,0,0,65.8,35506,15.87
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,1,JAN,2013,4,4,283.6262,0,65104,2675,934,1741,0,0,0,283.6262,65104,24.34
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2013,21,21,1158.1095,0,554753,28113,11678,16435,0,0,0,1158.1095,554753,19.73
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,10,OCT,2013,1,1,50,0,18243,549,181,368,0,0,0,50,18243,33.23
+2013,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,4,APR,2013,1,1,154.1,0,81533,5600,1288,4312,0,0,0,154.1,81533,14.56
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,2,FEB,2013,1,1,49.335,0,5580,131,0,131,0,0,0,49.335,5580,42.6
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,1,JAN,2013,1,1,24.8,0,4396,119,39,80,0,0,0,24.8,4396,36.94
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,R ,71,Insects,5,MAY,2013,1,1,240,0,191452,6963,2855,4108,0,0,0,240,15072,2.16
+2013,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,97,Earthquake,5,MAY,2013,1,1,4.67,0,1425.3,67.9,27.8,40.1,0,0,0,4.67,1425.3,20.99
+2013,6,CA,101,Sutter                        ,55,RICE                          ,90,APH       ,A,H ,61,Wind/Excess Wind,4,APR,2013,1,1,123.4,0,77630,4174,1878,2296,0,0,0,123.4,26695,6.4
+2013,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2013,1,1,588,0,285583,37741,16983,20758,0,0,0,593,285583,7.57
+2013,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2013,11,11,2837.893,0,1492414,229797,128568,101229,0,0,0,2837.893,1492414,6.49
+2013,6,CA,113,Yolo                          ,55,RICE                          ,90,APH       ,A,H ,61,Wind/Excess Wind,6,JUN,2013,1,1,166,0,122807,7059,3177,3882,0,0,0,166,4416,0.63
+2014,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,11,NOV,2014,1,1,45.125,0,72375,3525,2186,1339,0,0,0,45.125,554,0.16
+2014,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,12,DEC,2014,1,1,367.4,0,636780,33670,20875,12795,0,0,0,367.4,29412,0.87
+2014,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2014,1,1,21,0,23308,444,182,262,0,0,0,21,2711,6.11
+2014,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,2,2,656.25,0,467064,21634,8927,12707,0,0,0,656.25,467064,21.59
+2014,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2014,1,1,59.7,0,30390,1176,482,694,0,0,0,59.7,30390,25.84
+2014,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,2,2,143.5,0,111397,7266,3987,3279,0,0,0,143.5,111397,15.33
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2014,1,1,131.6,0,190628,7965,4938,3027,0,0,0,131.6,16572,2.08
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2014,1,1,187.9,0,159836,5217,3235,1982,0,0,0,187.9,28429,5.45
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,7,JUL,2014,2,2,69.2144,0,55789,3390,1763,1627,0,0,0,69.2144,55789,16.46
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,6,JUN,2014,1,1,129.5,0,27695,723,0,723,0,0,0,129.5,27695,38.31
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,3,MAR,2014,4,4,451.7,0,287830,24025,14549,9476,0,0,0,451.7,287830,11.98
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2014,1,1,48.6,0,32829,2761,1712,1049,0,0,0,48.6,32829,11.89
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,7,7,509.3,0,478847,33034,19734,13300,0,0,0,509.3,478847,14.5
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,4,APR,2014,2,2,188.35,0,122444,9196,4401,4795,0,0,0,188.35,122444,13.31
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2014,1,1,92.3,0,68441,5417,3359,2058,0,0,0,92.3,68441,12.63
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2014,17,17,3967.9626,0,3034399,252442,154167,98275,0,0,0,3967.9626,3034399,12.02
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2014,22,22,2965.3504,0,1894141,156636,88202,68434,0,0,0,2965.3504,1894141,12.09
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,5,MAY,2014,4,4,721.0979,0,457952,43348,26685,16663,0,0,0,721.0979,457952,10.56
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,111,111,13510.0431,0,9955562,730126,425726,304400,0,0,0,13510.0431,9955562,13.64
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2014,14,14,940.139,0,736806,55839,33080,22759,0,0,0,940.139,736806,13.2
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,8,AUG,2014,1,1,8.5,0,7195,585,363,222,0,0,0,8.5,7195,12.3
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,1,JAN,2014,1,1,51.2,0,26315,1231,505,726,0,0,0,51.2,26315,21.38
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2014,7,7,598.1384,0,461227,32775,17992,14783,0,0,0,598.1384,461227,14.07
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,UH,13,Failure of Irrigation Supply,4,APR,2014,1,1,202.6,0,280383,6040,2476,3564,0,0,0,202.6,271163,44.89
+2014,6,CA,11,Colusa                        ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2014,1,1,5.2947,0,3482,178,73,105,0,0,0,5.2947,3482,19.56
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,14,Failure of Irrigation Equipment,2,FEB,2014,1,1,27.8,0,18850,1399,658,741,0,0,0,27.8,18850,13.47
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2014,1,1,79.125,0,71251,4397,2286,2111,0,0,0,79.125,71251,16.2
+2014,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,91,Fire,1,JAN,2014,1,1,12.45,0,9357,639,332,307,0,0,0,12.45,9357,14.64
+2014,6,CA,19,Fresno                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,5,MAY,2014,1,1,160.8,0,58160,3622,1304,2318,0,0,0,160.8,58160,16.06
+2014,6,CA,19,Fresno                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2014,1,1,78.3,0,33488,4607,2856,1751,0,0,0,78.3,33488,7.27
+2014,6,CA,19,Fresno                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,1,1,224.9,0,103510,9012,4056,4956,0,0,0,224.9,103510,11.49
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2014,2,2,405.274,0,265123,23254,14065,9189,0,0,0,405.274,265123,11.4
+2014,6,CA,21,Glenn                         ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,2,2,76.6,0,48288,2570,1054,1516,0,0,0,76.6,48288,18.79
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,13,Failure of Irrigation Supply,6,JUN,2014,2,2,200,0,221969,8693.5,5390,3303.5,0,0,0,200,-14953,-1.72
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2014,21,21,1983.6295,0,1101002,79494,43632,35862,0,0,0,1983.6295,1101002,13.85
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,5,MAY,2014,3,3,191,0,106336,7226,4007,3219,0,0,0,191,106336,14.72
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2014,3,3,210.1,0,155979,12703,7731,4972,0,0,0,210.1,155979,12.28
+2014,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,4,4,1184.1135,0,949543,84466,43830,40636,0,0,0,1184.1135,949543,11.24
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,3,MAR,2014,1,1,11.9,0,3345,273,169,104,0,0,0,11.9,3345,12.25
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,4,4,161.865,0,137921,10743,6661,4082,0,0,0,161.865,137921,12.84
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,25,25,3367.4522,0,2541369,171529,97689,73840,0,0,0,3367.4522,2541369,14.82
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,UH,13,Failure of Irrigation Supply,6,JUN,2014,2,2,70.3,0,221969,8693.5,5390,3303.5,0,0,0,70.3,115460,13.28
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2014,3,3,310.5686,0,260684,20719,12846,7873,0,0,0,310.5686,260684,12.58
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,6,JUN,2014,1,1,29.3,0,5704,152,0,152,0,0,0,29.3,5704,37.53
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,1,JAN,2014,1,1,78.375,0,53484,4404,2730,1674,0,0,0,78.375,53484,12.14
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2014,1,1,26.125,0,21786,1586,983,603,0,0,0,26.125,21786,13.74
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,14,Failure of Irrigation Equipment,2,FEB,2014,1,1,95,0,68366,3689,1660,2029,0,0,0,95,68366,18.53
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,21,Hail,10,OCT,2014,1,1,104.5,0,163374,7075,4386,2689,0,0,0,104.5,29343,4.15
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,21,Hail,9,SEP,2014,2,2,83.9,0,127219,4809,2981,1828,0,0,0,83.9,25743,5.35
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2014,1,1,35.2,0,24374,1354,609,745,0,0,0,35.2,24374,18
+2014,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,93,Wildlife,8,AUG,2014,1,1,80.1,0,61052,1457,656,801,0,0,0,80.1,31298,21.48
+2014,6,CA,35,Lassen                        ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,9,SEP,2014,1,1,30.31,0,23073,1442,591,851,0,0,0,30.31,14894,10.33
+2014,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,3,MAR,2014,1,1,389.6,0,196637,14147,5800,8347,0,0,0,389.6,196637,13.9
+2014,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2014,1,1,148,0,89075,11092,6877,4215,0,0,0,148,89075,8.03
+2014,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,1,1,305.5,0,210286,19198,11903,7295,0,0,0,305.5,210286,10.95
+2014,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,UH,13,Failure of Irrigation Supply,6,JUN,2014,1,1,23,0,40271.5,1041.5,427,614.5,0,0,0,23,23185,22.26
+2014,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,H ,13,Failure of Irrigation Supply,6,JUN,2014,1,1,56.9,0,40271.5,1041.5,427,614.5,0,0,0,56.9,4698,4.51
+2014,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2014,2,2,682.9,0,444889,34602,15516,19086,0,0,0,682.9,444889,12.86
+2014,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,H ,13,Failure of Irrigation Supply,12,DEC,2013,2,2,1259.6,0,1251383,312291,136349,175942,0,0,0,1259.6,1120624,3.59
+2014,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,7,JUL,2014,1,1,241.4,0,126011,21590,7772,13818,0,0,0,241.4,120510,5.58
+2014,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2014,1,1,78.7,0,45163,2727,1118,1609,0,0,0,78.7,45163,16.56
+2014,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,1,1,11.752,0,8816,1294,802,492,0,0,0,11.752,8816,6.81
+2014,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,11,11,2328.948,0,1951321,197126,122203,74923,0,0,0,2328.948,1951321,9.9
+2014,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,12,Heat,7,JUL,2014,5,5,1505.75,0,1026175.1,28267.8,11590.9,16676.9,0,0,0,1505.75,308736.3,10.92
+2014,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,13,Failure of Irrigation Supply,5,MAY,2014,1,1,125,0,112194,2287,938,1349,0,0,0,125,85801,37.52
+2014,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,13,Failure of Irrigation Supply,8,AUG,2014,1,1,238.3,0,161877.4,4429.6,1816.2,2613.4,0,0,0,238.3,67889.6,15.33
+2014,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,8,AUG,2014,2,2,16.95,0,15385.5,294.6,120.9,173.7,0,0,0,16.95,5129.1,17.41
+2014,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,11,NOV,2014,3,3,264.7,0,314458,13905,8622,5283,0,0,0,264.7,12110,0.87
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2014,1,1,241.7,0,213981,7900,4898,3002,0,0,0,241.7,25302,3.2
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2014,3,3,289,0,311674,7858,3262,4596,0,0,0,289,48242,6.14
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,8,AUG,2014,4,4,547.1,0,763426,35130,21781,13349,0,0,0,547.1,104684,2.98
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,5,MAY,2014,1,1,16.7,0,9534,540,243,297,0,0,0,16.7,9534,17.66
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,UH,13,Failure of Irrigation Supply,2,FEB,2014,2,2,160.2,0,195074,7478,4417,3061,0,0,0,160.2,195074,26.09
+2014,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,10,10,3070.85,0,2452270,233065,139065,94000,0,0,0,3070.85,2452270,10.52
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,3,MAR,2014,1,1,383.1,0,257810,21693,13450,8243,0,0,0,383.1,257810,11.88
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2014,1,1,413.35,0,255175,24952,15470,9482,0,0,0,413.35,255175,10.23
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,1,1,58.5,0,43009,3853,2389,1464,0,0,0,58.5,43009,11.16
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2014,22,22,3722.215,0,2843502,240350,149016,91334,0,0,0,3722.215,2843482,11.83
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,2,FEB,2014,5,5,442.335,0,83383,2308,0,2308,0,0,0,442.335,83383,36.13
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,1,JAN,2014,1,1,81.2,0,50594,4970,3081,1889,0,0,0,81.2,50594,10.18
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,UH,13,Failure of Irrigation Supply,7,JUL,2014,1,1,32.5,0,42871,1374,714,660,0,0,0,32.5,42871,31.2
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2014,15,15,1565.76,0,943320,79603,47035,32568,0,0,0,1565.76,943320,11.85
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,65,65,7643.5175,0,5583385,419876,249704,170172,0,0,0,7643.5175,5583385,13.3
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2014,2,2,1288.1,0,1002765,67575,35438,32137,0,0,0,1288.1,1002765,14.84
+2014,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2013,1,1,18.35,0,15161,1456,903,553,0,0,0,18.35,15161,10.41
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,6,JUN,2014,2,2,109,0,23451,619,0,619,0,0,0,109,23451,37.89
+2014,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,14,Failure of Irrigation Equipment,3,MAR,2014,1,1,307.5,0,236797,22898,14197,8701,0,0,0,307.5,236797,10.34
+2014,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,61,Wind/Excess Wind,5,MAY,2014,1,1,162.5,0,224984,10698,6633,4065,0,0,0,162.5,4840,0.45
+2014,6,CA,101,Sutter                        ,55,RICE                          ,90,APH       ,A,H ,12,Heat,7,JUL,2014,1,1,19,0,12728,578,237,341,0,0,0,19,834,1.44
+2014,6,CA,103,Tehama                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,1,1,89.1,0,100050,7691,4768,2923,0,0,0,89.1,100050,13.01
+2014,6,CA,103,Tehama                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,1,1,221.8,0,113261,11460,7106,4354,0,0,0,221.8,113261,9.88
+2014,6,CA,113,Yolo                          ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,11,NOV,2014,1,1,78.84,0,122294.8,15107.2,9366.4,5740.8,0,0,0,78.84,37760.8,2.5
+2014,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,12,Heat,8,AUG,2014,3,3,598.2,0,788254,66053,40953,25100,0,0,0,598.2,28506,0.43
+2014,6,CA,113,Yolo                          ,18,RICE                          ,3,RPHPE     ,A,H ,13,Failure of Irrigation Supply,4,APR,2014,1,1,118.26,0,183442.2,22660.8,14049.6,8611.2,0,0,0,118.26,56641.2,2.5
+2014,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2014,1,1,90.7,0,30375,4843,3003,1840,0,0,0,90.7,30375,6.27
+2014,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,2,2,176.8,0,124144,24670,15295,9375,0,0,0,176.8,124144,5.03
+2014,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2014,24,24,10207.9092,0,7213065,1133400,698231,435169,0,0,0,10207.9092,7213065,6.36
+2014,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2014,1,1,37.3,0,21258,3379,2095,1284,0,0,0,37.3,21258,6.29
+2014,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2014,8,8,905.9,0,511141,67901,33986,33915,0,0,0,905.9,511141,7.53
+2014,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,13,Failure of Irrigation Supply,10,OCT,2014,1,1,245.8,0,288550,41465,25708,15757,0,0,0,245.8,98584,2.38
+2014,6,CA,113,Yolo                          ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2014,1,1,124.5,0,106224,23856,14791,9065,0,0,0,124.5,106224,4.45
+2014,6,CA,115,Yuba                          ,18,RICE                          ,2,RP        ,A,H ,12,Heat,7,JUL,2014,1,1,22.3,0,16913,563,231,332,0,0,0,22.3,3340,5.93
+2015,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,6,6,237.4875,0,142417.5,7693.1,3095.2,4597.9,0,0,0,237.4875,142417.5,18.51
+2015,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,14,14,1595.3168,0,1004889.8,63562.2,34404.6,29157.6,0,0,0,1595.3168,1004889.8,15.81
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,6,JUN,2015,1,1,48.1,0,6836,97,0,97,0,0,0,48.1,6836,70.47
+2015,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,13,Failure of Irrigation Supply,7,JUL,2015,1,1,68.8,0,76212,2592.5,1607.5,985,0,0,0,116.4,-5457,-2.1
+2015,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,6,6,548.72,0,343233.1,18726.7,9031.2,9695.5,0,0,0,548.72,343233.1,18.33
+2015,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,UH,13,Failure of Irrigation Supply,7,JUL,2015,1,1,68.8,0,76212,2592.5,1607.5,985,0,0,0,21.2,23484,9.06
+2015,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,5,5,147.7125,0,95605.5,4974.9,1609.8,3365.1,0,0,0,147.7125,95605.5,19.22
+2015,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,41,41,4686.787,0,2954996.1,175206.1,90197.2,85008.9,0,0,0,4686.787,2954996.1,16.87
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2015,5,5,796.2,0,364362,15867,6071,9796,0,0,0,796.2,364362,22.96
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,55,55,5281.2795,0,2975935.8,155674.4,82144.1,73530.3,0,0,0,5281.2795,2975935.8,19.12
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2015,1,1,144.1,0,102616,6475,4014,2461,0,0,0,144.1,102616,15.85
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,H ,13,Failure of Irrigation Supply,6,JUN,2015,3,3,806.1,0,570837,7809,2577,5232,0,0,0,806.1,282121,36.13
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2015,11,11,1199.44,0,676523.8,32829.8,16523.6,16306.2,0,0,0,1199.44,676523.8,20.61
+2015,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,4,4,313.4,0,196166,13747,8524,5223,0,0,0,313.4,196166,14.27
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,2,FEB,2015,2,2,510.1,0,81287,1089,0,1089,0,0,0,510.1,81287,74.64
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,16,16,1638.6612,0,893428.2,43888.2,23330.4,20557.8,0,0,0,1638.6612,893428.2,20.36
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,2,2,85.18,0,52097.2,2551.6,1278.9,1272.7,0,0,0,85.18,52097.2,20.42
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,UH,13,Failure of Irrigation Supply,6,JUN,2015,2,2,82.9,0,59272,805,266,539,0,0,0,82.9,59272,73.63
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,14,Failure of Irrigation Equipment,2,FEB,2015,1,1,336.5,0,207463,9288,4180,5108,0,0,0,336.5,207463,22.34
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,6,JUN,2015,1,1,93,0,31077,1170,421,749,0,0,0,93,31077,26.56
+2015,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,H ,71,Insects,10,OCT,2015,2,2,145.8,0,189175,9942,6164,3778,0,0,0,145.8,188777,18.99
+2015,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,H ,71,Insects,7,JUL,2015,1,1,42,0,24017,851,383,468,0,0,0,42,23958,28.15
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2015,1,1,240,0,220013,5707,2568,3139,0,0,0,240,22157,3.88
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,12,Heat,2,FEB,2015,1,1,27.8,0,16195,1120,694,426,0,0,0,27.8,16195,14.46
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2015,27,27,4775.6882,0,2778853,175848,104622,71226,0,0,0,4775.6882,2778853,15.8
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,13,Failure of Irrigation Supply,7,JUL,2015,5,5,394.49,0,362403.45,9414.3,4600.8,4813.5,0,0,0,394.49,48156.95,5.12
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2015,3,3,260.35,0,119850,6052,2830,3222,0,0,0,260.35,119850,19.8
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,1,JAN,2015,2,2,520.9312,0,252237,19559,12119,7440,0,0,0,520.9312,252237,12.9
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2015,6,6,199.4821,0,111591,6080,3300,2780,0,0,0,199.4821,111591,18.35
+2015,6,CA,11,Colusa                        ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,4,4,264.8,0,170052.8,12629.6,7830.6,4799,0,0,0,264.8,170052.8,13.46
+2015,6,CA,11,Colusa                        ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2015,1,1,6.2271,0,3141,109,45,64,0,0,0,6.2271,3141,28.82
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,13,Failure of Irrigation Supply,5,MAY,2015,1,1,97.4,0,90362,2098,944,1154,0,0,0,97.4,22575,10.76
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,4,APR,2015,1,1,0.0384,0,11,1,0,1,0,0,0,0.0384,11,11
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,1,1,64,0,40231,2128,1107,1021,0,0,0,64,40231,18.91
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,7,JUL,2015,2,2,132,0,77952,4290,2017,2273,0,0,0,132,77952,18.17
+2015,6,CA,11,Colusa                        ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,1,1,19,0,20169.2,1468.4,910.4,558,0,0,0,19,20169.2,13.74
+2015,6,CA,11,Colusa                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,5,5,412.7,0,255841,15864,7883,7981,0,0,0,412.7,255841,16.13
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,13,Failure of Irrigation Supply,6,JUN,2015,1,1,85.47,0,85824.75,2394.7,1245.2,1149.5,0,0,0,85.47,11652.85,4.87
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2015,7,7,323.362,0,154285,10191,6036,4155,0,0,0,323.362,154285,15.14
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,5,MAY,2015,1,1,32.8,0,16290,1248,774,474,0,0,0,32.8,16290,13.05
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,133,133,15654.7054,0,9177519,560091,327179,232912,0,0,0,15654.7054,9177519,16.39
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2015,9,9,485.0886,0,279356,16512,9175,7337,0,0,0,485.0886,279356,16.92
+2015,6,CA,11,Colusa                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,1,1,65.6,0,40583,3081,1910,1171,0,0,0,65.6,40583,13.17
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,6,JUN,2015,1,1,19.4,0,1788,32,0,32,0,0,0,19.4,1788,55.88
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,62,Hot Wind,7,JUL,2015,1,1,32.64,0,26594.8,796,414,382,0,0,0,32.64,2603.2,3.27
+2015,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,99,"Other (Snow, Lightning, Etc.)",6,JUN,2015,1,1,32,0,31901,895,465,430,0,0,0,32,-8990,-10.04
+2015,6,CA,19,Fresno                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,2,2,335.4,0,117820,9581,4648,4933,0,0,0,335.4,117820,12.3
+2015,6,CA,19,Fresno                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2015,1,1,72,0,27637,3240,2009,1231,0,0,0,72,27637,8.53
+2015,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,4,4,291.95,0,182669,12272.1,7280.4,4991.7,0,0,0,291.95,182669,14.88
+2015,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,UH,13,Failure of Irrigation Supply,6,JUN,2015,1,1,44.165,0,42560.925,1155,519.75,635.25,0,0,0,54.615,52631.7,45.57
+2015,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,2,2,58.19,0,39162.5,1968.1,843.6,1124.5,0,0,0,58.19,39162.5,19.9
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,3,MAR,2015,1,1,52.9,0,22561,1144,515,629,0,0,0,52.9,22561,19.72
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2015,5,5,320.05,0,144444,8760,4952,3808,0,0,0,320.05,144444,16.49
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2015,8,8,473.25,0,279308,15954,9420,6534,0,0,0,473.25,279308,17.51
+2015,6,CA,21,Glenn                         ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,2,2,200,0,129830,8084,5013,3071,0,0,0,200,129830,16.06
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,2,FEB,2015,2,2,97.1,0,13107,177,0,177,0,0,0,97.1,13107,74.05
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2015,6,6,254.575,0,113217,6656,3738,2918,0,0,0,254.575,113217,17.01
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,53,53,6242.4869,0,3570002,211895,126712,85183,0,0,0,6242.4869,3570002,16.85
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2015,2,2,214.8,0,119700,6629,3855,2774,0,0,0,214.8,119700,18.06
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,3,3,180.1,0,110101,6417,3152,3265,0,0,0,180.1,110101,17.16
+2015,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,H ,13,Failure of Irrigation Supply,6,JUN,2015,1,1,44.165,0,42560.925,1155,519.75,635.25,0,0,0,33.715,14031.6,12.15
+2015,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,6,6,1119.76,0,674688.5,40289.8,19667,20622.8,0,0,0,1119.76,674688.5,16.75
+2015,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,UH,14,Failure of Irrigation Equipment,6,JUN,2015,1,1,36.135,0,34822.575,945,425.25,519.75,0,0,0,44.685,43062.3,45.57
+2015,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,C,P2,14,Failure of Irrigation Equipment,2,FEB,2015,1,1,134.6,0,21821,239,0,239,0,0,0,134.6,21821,91.3
+2015,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,H ,14,Failure of Irrigation Equipment,6,JUN,2015,1,1,36.135,0,34822.575,945,425.25,519.75,0,0,0,27.585,11480.4,12.15
+2015,6,CA,35,Lassen                        ,55,RICE                          ,90,APH       ,A,H ,21,Hail,6,JUN,2015,1,1,95.4,0,84658,3414,1229,2185,0,0,0,95.4,78318,22.94
+2015,6,CA,35,Lassen                        ,55,RICE                          ,90,APH       ,A,H ,21,Hail,7,JUL,2015,2,2,123,0,121540,4889,2004,2885,0,0,0,123,15554,3.18
+2015,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2015,1,1,185.4,0,96640,9810,6082,3728,0,0,0,185.4,96640,9.85
+2015,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,3,MAR,2015,2,2,599.6,0,280223,30141,18687,11454,0,0,0,599.6,280223,9.3
+2015,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,3,3,890.85,0,492750,43677,26781,16896,0,0,0,890.85,492750,11.28
+2015,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,UH,13,Failure of Irrigation Supply,3,MAR,2015,1,1,455.1,0,614385,187204.2,84241.8,102962.4,0,0,0,455.1,588304.8,3.14
+2015,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,UH,93,Wildlife,3,MAR,2015,1,1,303.4,0,409590,124802.8,56161.2,68641.6,0,0,0,303.4,392203.2,3.14
+2015,6,CA,49,Modoc                         ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,6,JUN,2015,1,1,388.9,0,434012,112484,50618,61866,0,0,0,388.9,318177,2.83
+2015,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2015,2,2,279.9,0,277083,12945,7021,5924,0,0,0,279.9,65451,5.06
+2015,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2015,1,1,78.7,0,40214,2034,834,1200,0,0,0,78.7,40214,19.77
+2015,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2015,1,1,127.6,0,51537,3857,1735,2122,0,0,0,127.6,51537,13.36
+2015,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,12,12,1308.015,0,756976,70008,42401,27607,0,0,0,1308.015,756976,10.81
+2015,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2015,1,1,505.3,0,325915,35324,21900,13424,0,0,0,505.3,325915,9.23
+2015,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,1,1,3.588,0,2063,196,122,74,0,0,0,3.588,2063,10.53
+2015,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2015,1,1,89.425,0,48760,3107,1616,1491,0,0,0,89.425,48760,15.69
+2015,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,6,JUN,2015,1,1,2.325,0,750,52,19,33,0,0,0,2.325,750,14.42
+2015,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2015,2,2,101.925,0,50615,3718,1545,2173,0,0,0,101.925,50615,13.61
+2015,6,CA,77,San Joaquin                   ,18,RICE                          ,3,RPHPE     ,A,P2,13,Failure of Irrigation Supply,5,MAY,2015,1,1,39.975,0,11975,867,312,555,0,0,0,39.975,11975,13.81
+2015,6,CA,89,Shasta                        ,55,RICE,90,APH       ,A,H ,21,Hail,6,JUN,2015,1,1,78.4,0,81709,1814,744,1070,0,0,0,78.4,47232,26.04
+2015,6,CA,89,Shasta                        ,55,RICE,90,APH       ,A,H ,21,Hail,7,JUL,2015,2,2,225,0,175167,5470,2243,3227,0,0,0,225,23571,4.31
+2015,6,CA,99,Stanislaus                    ,18,RICE                          ,3,RPHPE     ,A,P2,13,Failure of Irrigation Supply,5,MAY,2015,1,1,22,0,6308,461,166,295,0,0,0,22,6308,13.68
+2015,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,12,Heat,3,MAR,2015,1,1,77,0,46403,3142,1948,1194,0,0,0,77,46403,14.77
+2015,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,1,1,60.075,0,39678,2404.2,1490.4,913.8,0,0,0,60.075,39678,16.5
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,C,P2,13,Failure of Irrigation Supply,2,FEB,2015,3,3,34.9229,0,5227,74,0,74,0,0,0,34.9229,5227,70.64
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,13,Failure of Irrigation Supply,7,JUL,2015,4,4,390.65,0,356859,11112,6257,4855,0,0,0,393.35,76193,6.86
+2015,6,CA,101,Sutter                        ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,1,1,13.6,0,8116,503,312,191,0,0,0,13.6,8116,16.14
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,133,133,18058.511,0,10312221,617788,363332,254456,0,0,0,18046.911,10306670,16.68
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,1,JAN,2015,1,1,78.525,0,38209,2975,1844,1131,0,0,0,78.525,38209,12.84
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,1,JAN,2015,1,1,102.5,0,59991,4744,2941,1803,0,0,0,102.5,59991,12.65
+2015,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,15,15,4485.933,0,2631832,175040.8,105016.6,70024.2,0,0,0,4485.933,2631832,15.04
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,3,MAR,2015,1,1,137.5,0,62002,4771,2958,1813,0,0,0,139.275,62003,13
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,5,5,656.4,0,408035,26486,16422,10064,0,0,0,656.4,408035,15.41
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2015,26,26,4130.065,0,2403236,157849,96127,61722,0,0,0,4130.065,2403236,15.22
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2015,10,10,1057.58,0,407705,23009,11870,11139,0,0,0,1057.58,407705,17.72
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2015,1,1,1228.5,0,724969,39892,20745,19147,0,0,0,1228.5,724969,18.17
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2015,1,1,340.3,0,200676,11054,5748,5306,0,0,0,340.3,200676,18.15
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2015,1,1,59.2,0,35802,2438,1512,926,0,0,0,59.2,35802,14.68
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,61,Wind/Excess Wind,6,JUN,2015,1,1,148.4,0,145811,4640,2413,2227,0,0,0,148.4,4208,0.91
+2015,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,61,Wind/Excess Wind,5,MAY,2015,1,1,260.2,0,300138,10970,6801,4169,0,0,0,260.2,31377,2.86
+2015,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,H ,93,Wildlife,8,AUG,2015,1,1,239.9,0,265927,9851,6108,3743,0,0,0,239.9,75826,7.7
+2015,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,H ,99,"Other (Snow, Lightning, Etc.)",8,AUG,2015,1,1,97.4,0,104040,3958,2454,1504,0,0,0,97.4,16890,4.27
+2015,6,CA,103,Tehama                        ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,1,1,89.1,0,76688,6019,3732,2287,0,0,0,89.1,76688,12.74
+2015,6,CA,103,Tehama                        ,18,RICE                          ,1,YP        ,A,P2,13,Failure of Irrigation Supply,2,FEB,2015,1,1,95,0,50640,4290,2660,1630,0,0,0,95,50640,11.8
+2015,6,CA,113,Yolo                          ,18,RICE                          ,2,RP        ,A,H ,11,Drought,7,JUL,2015,1,1,293.4,0,237643,37125,23017,14108,0,0,0,293.4,132506,3.57
+2015,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2015,2,2,83,0,89148,6827,4182,2645,0,0,0,83,21741,3.18
+2015,6,CA,113,Yolo                          ,18,RICE                          ,3,RPHPE     ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,2,2,466.7,0,274912,45571,28254,17317,0,0,0,466.7,274912,6.03
+2015,6,CA,113,Yolo                          ,18,RICE                          ,2,RP        ,A,PT,13,Failure of Irrigation Supply,3,MAR,2015,1,1,205.5,0,91540,26003,16122,9881,0,0,0,205.5,91540,3.52
+2015,6,CA,113,Yolo                          ,18,RICE                          ,3,RPHPE     ,A,H ,13,Failure of Irrigation Supply,7,JUL,2015,1,1,201.3,0,218428,28071,17404,10667,0,0,0,201.3,166607,5.94
+2015,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,11,11,1378.3,0,715239,110079,59654,50425,0,0,0,1378.3,715239,6.5
+2015,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,6,JUN,2015,24,24,8879.187,0,4673477,740252,442708,297544,0,0,0,8879.187,4673477,6.31
+2015,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,14,Failure of Irrigation Equipment,6,JUN,2015,1,1,360.7,0,175761,26317,11843,14474,0,0,0,360.7,175761,6.68
+2015,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,14,Failure of Irrigation Equipment,7,JUL,2015,1,1,81.95,0,51044.5,4972,2237.5,2734.5,0,0,0,85.9,-4298,-0.86
+2015,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,UH,14,Failure of Irrigation Equipment,7,JUL,2015,1,1,81.95,0,51044.5,4972,2237.5,2734.5,0,0,0,78,43804,8.81
+2015,6,CA,113,Yolo                          ,18,RICE                          ,32,SCO-RP    ,A,FL,55,ARPI/SCO/STAX Crops Only,5,MAY,2016,1,1,0,293.4,2796,78,27,51,0,0,0,0,2796,35.85
+2015,6,CA,113,Yolo                          ,18,RICE                          ,33,SCO-RPHPE ,A,FL,55,ARPI/SCO/STAX Crops Only,5,MAY,2016,2,2,0,278.5,3602,101,35,66,0,0,0,0,3602,35.66
+2015,6,CA,113,Yolo                          ,18,RICE                          ,3,RPHPE     ,A,H ,93,Wildlife,3,MAR,2015,1,1,77.2,0,87697,6470,4011,2459,0,0,0,77.2,87279,13.49
+2015,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2015,4,4,88.1,0,46842,2690,1486,1204,0,0,0,88.1,46842,17.41
+2016,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2016,5,5,2366.949,0,3051644.12,150258.58,80431.32,69827.26,0,0,0,2366.949,151183.9,1.01
+2016,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,H ,1,Decline in Price,11,NOV,2016,3,3,340.075,0,455342,31923,19793,12130,0,0,0,340.075,11348,0.36
+2016,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,11,NOV,2016,15,15,5743.9814,0,7818632,438675,242275,196400,0,0,0,5743.9814,408025,0.93
+2016,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,2,2,49.984125,0,58780.32,3758.67,2330.43,1428.24,0,0,0,49.984125,12725.78,3.39
+2016,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,928.251,0,1014332.88,31539.42,6307.68,25231.74,0,0,0,928.251,57788.1,1.83
+2016,6,CA,7,Butte                         ,18,RICE                          ,16,MP        ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,4,APR,2017,1,1,0,0,1821771,28419,14494,13925,0,0,0,802.4,27898,0.98
+2016,6,CA,7,Butte                         ,18,RICE                          ,33,SCO-RPHPE ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,6,JUN,2017,80,80,0,27312.3258,2834425,312963,108929,204034,0,0,0,0,134010,0.43
+2016,6,CA,7,Butte                         ,18,RICE                          ,32,SCO-RP    ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,6,JUN,2017,3,3,0,437.7375,5178,1295,453,842,0,0,0,0,1620,1.25
+2016,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,H ,61,Wind/Excess Wind,6,JUN,2016,2,2,288.253375,0,341516.68,27732.33,17192.57,10539.76,0,0,0,288.253375,238627.22,8.6
+2016,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,H ,61,Wind/Excess Wind,6,JUN,2016,1,1,42,0,22405,975,439,536,0,0,0,42,18406,18.88
+2016,6,CA,11,Colusa                        ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2016,1,1,1052.772,0,1528653,89284,55356,33928,0,0,0,1052.772,53572,0.6
+2016,6,CA,11,Colusa                        ,18,RICE                          ,2,RP        ,A,H ,1,Decline in Price,11,NOV,2016,1,1,96.5,0,122887,7984,4950,3034,0,0,0,96.5,531,0.07
+2016,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2016,1,1,519.9,0,626752,21860,10274,11586,0,0,0,519.9,15691,0.72
+2016,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2016,1,1,125.9,0,64744,3530,1588,1942,0,0,0,125.9,64744,18.34
+2016,6,CA,11,Colusa                        ,18,RICE                          ,3,RPHPE     ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,625.5,0,978410,51728,24311,27417,0,0,0,625.5,120374,2.33
+2016,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,72,0,70943,2733,1421,1312,0,0,0,72,9851,3.6
+2016,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2016,2,2,137.2,0,82154,5765,3255,2510,0,0,0,137.2,82154,14.25
+2016,6,CA,19,Fresno                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2016,1,1,72,0,30748,4323,2680,1643,0,0,0,72,30748,7.11
+2016,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2016,4,4,972.25,0,1335612,73826,45773,28053,0,0,0,972.25,42871,0.58
+2016,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,11,NOV,2016,2,2,869.206,0,1162966,60216,29041,31175,0,0,0,869.206,93573,1.55
+2016,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,2,FEB,2016,1,1,19,0,9675,345,141,204,0,0,0,19,9675,28.04
+2016,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,111.55,0,134237.5,5025,3115.5,1909.5,0,0,0,143.7,-54646,-10.87
+2016,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,UH,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,111.55,0,134237.5,5025,3115.5,1909.5,0,0,0,79.4,95549,19.01
+2016,6,CA,21,Glenn                         ,18,RICE                          ,33,SCO-RPHPE ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,6,JUN,2017,15,15,0,5522.4022,344209,54198,18967,35231,0,0,0,0,240059,4.43
+2016,6,CA,21,Glenn                         ,18,RICE                          ,2,RP        ,A,H ,61,Wind/Excess Wind,6,JUN,2016,2,2,201.5,0,273660,18141,11247,6894,0,0,0,201.5,54336,3
+2016,6,CA,35,Lassen                        ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,7,JUL,2016,1,1,107.425,0,152618,15245,6861,8384,0,0,0,107.425,23010,1.51
+2016,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,5,MAY,2016,2,2,158.08,0,99926,9975,6093,3882,0,0,0,158.08,99926,10.02
+2016,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,R ,93,Wildlife,6,JUN,2016,1,1,129.4,0,139012,8106,5026,3080,0,0,0,50.7,3407,0.42
+2016,6,CA,47,Merced                        ,18,RICE                          ,1,YP        ,A,H ,93,Wildlife,6,JUN,2016,1,1,53.925,0,60182,3436,2130,1306,0,0,0,53.925,1908,0.56
+2016,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,8,AUG,2016,1,1,97.16,0,131138,7718.8,4014,3704.8,0,0,0,97.16,65998.4,8.55
+2016,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,145.74,0,196707,11578.2,6021,5557.2,0,0,0,145.74,98997.6,8.55
+2016,6,CA,67,Sacramento                    ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2016,2,2,418.95,0,597457,51113.86,31690.75,19423.11,0,0,0,420.91,58635.36,1.15
+2016,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2016,1,1,131.82,0,180270.6,15501.6,6975.6,8526,0,0,0,131.82,62838,4.05
+2016,6,CA,67,Sacramento                    ,18,RICE                          ,3,RPHPE     ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,2,2,436.05,0,621843,53200.14,32984.25,20215.89,0,0,0,438.09,61028.64,1.15
+2016,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,87.88,0,120180.4,10334.4,4650.4,5684,0,0,0,87.88,41892,4.05
+2016,6,CA,67,Sacramento                    ,18,RICE                          ,33,SCO-RPHPE ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,6,JUN,2017,2,2,0,855,14344,3146,1101,2045,0,0,0,0,14344,4.56
+2016,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2016,9,9,1524.709,0,2059635.3,117588.06,72040.45,45547.61,0,0,0,1524.709,86614.22,0.74
+2016,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,UH,12,Heat,7,JUL,2016,1,1,12,0,9900,143.1,47.1,96,0,0,0,9.48,5158.8,36.05
+2016,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2016,4,4,497.4,0,519123,16171.1,8321.1,7850,0,0,0,499.92,61760,3.82
+2016,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2016,2,2,342.3,0,442607,14785,6653,8132,0,0,0,342.3,120148,8.13
+2016,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,R ,12,Heat,6,JUN,2016,2,2,154.5,0,78874,2334,957,1377,0,0,0,154.5,10383,4.45
+2016,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,8,AUG,2016,2,2,201.2,0,233869.2,7826.8,3760.6,4066.2,0,0,0,201.2,21937.2,2.8
+2016,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,6,6,1327.224,0,1790325.93,102823.65,62850.36,39973.29,0,0,0,1327.224,72702.54,0.71
+2016,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,2,2,97.7,0,137014.8,5199.6,2685.8,2513.8,0,0,0,99.38,31200.8,6
+2016,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,UH,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,8,0,6600,95.4,31.4,64,0,0,0,6.32,3439.2,36.05
+2016,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,H ,51,Flood,10,OCT,2016,1,1,56.742,0,77700.77,4371.29,2710.19,1661.1,0,0,0,56.742,870.24,0.2
+2016,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2016,2,2,144.1,0,159539,15368,9133,6235,0,0,0,144.1,14687,0.96
+2016,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,12,Heat,8,AUG,2016,1,1,220.8,0,240409,24116,14952,9164,0,0,0,220.8,23363,0.97
+2016,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2016,1,1,87.76,0,46929.2,7783.6,3502.8,4280.8,0,0,0,87.76,46929.2,6.03
+2016,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2016,1,1,131.64,0,70393.8,11675.4,5254.2,6421.2,0,0,0,131.64,70393.8,6.03
+2016,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,44,Cold Wet Weather,9,SEP,2016,2,2,838.2,0,709143,76772,37278,39494,0,0,0,838.2,87721,1.14
+2016,6,CA,113,Yolo                          ,18,RICE                          ,33,SCO-RPHPE ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,6,JUN,2017,1,1,0,154.5,1850,444,155,289,0,0,0,0,1850,4.17
+2016,6,CA,115,Yuba                          ,18,RICE                          ,2,RP        ,A,H ,1,Decline in Price,11,NOV,2016,1,1,577.5,0,681250,49736,30837,18899,0,0,0,592.7,29329,0.59
+2016,6,CA,115,Yuba                          ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2016,1,1,157.6,0,155657,6704,3017,3687,0,0,0,157.6,30269,4.52
+2016,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,101,0,123374,5027,3117,1910,0,0,0,101,123154,24.5
+2016,6,CA,115,Yuba                          ,18,RICE                          ,33,SCO-RPHPE ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,6,JUN,2017,2,2,0,419.1043,26959,3950,1382,2568,0,0,0,0,6148,1.56
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,13,Failure of Irrigation Supply,4,APR,2017,1,1,53.082,0,34332,1760,792,968,0,0,0,53.082,34332,19.51
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,15,Inability to Prepare Land for Irrigation,4,APR,2017,1,1,217.84,0,154001.6,9983.6,4692.4,5291.2,0,0,0,217.84,154001.6,15.43
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,15,15,1135.48269,0,760889.7,38725.5,15675,23050.5,0,0,0,1135.48269,760889.7,19.65
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,1,1,117.9,0,69579,3123.9,718.5,2405.4,0,0,0,117.9,69579,22.27
+2017,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,2,2,324.4,0,216562,34073,21125,12948,0,0,0,324.4,216562,6.36
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2017,2,2,260.8,0,141279.6,5920,1677.6,4242.4,0,0,0,260.8,141279.6,23.86
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,81,81,10845.05212,0,7077140.4,343460.4,134482.8,208977.6,0,0,0,10845.05212,7077140.4,20.61
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,155.4,0,72761.4,2632.2,1079.4,1552.8,0,0,0,155.4,72761.4,27.64
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,32,32,3335.9178,0,1942485.6,80607,34894.8,45712.2,0,0,0,3335.9178,1942485.6,24.1
+2017,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,9,9,343.71903,0,237682.8,19483.2,9020.7,10462.5,0,0,0,343.71903,237682.8,12.2
+2017,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,10,10,410.18403,0,280729.2,22502.1,10379.1,12123,0,0,0,476.64903,323775.6,14.39
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,1,1,117.9,0,69579,3123.9,718.5,2405.4,0,0,0,117.9,69579,22.27
+2017,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,15,15,1135.48269,0,760889.7,38725.5,15675,23050.5,0,0,0,1135.48269,760889.7,19.65
+2017,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,24,24,2186.20204,0,1534115.6,124962.8,53409.8,71553,0,0,0,2186.20204,1534115.6,12.28
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,8,AUG,2017,1,1,212,0,277051,13029,8078,4951,0,0,0,212,7005,0.54
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,5,5,176.7,0,127155.6,7970.1,4236.6,3733.5,0,0,0,176.7,127155.6,15.95
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2017,1,1,230,0,130593,5509,2259,3250,0,0,0,230.02,130604,23.71
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2017,2,2,66.2416,0,33737.2,2880,1785.6,1094.4,0,0,0,66.2416,33737.2,11.71
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,20.25,0,4128.6,40.2,0,40.2,0,0,0,20.25,4128.6,102.7
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,54,54,5194.44224,0,3286361.2,158234.6,70164.2,88070.4,0,0,0,5194.44224,3286361.2,20.77
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,11,NOV,2016,2,2,119.72,0,76402,3742,1684,2058,0,0,0,119.72,76402,20.42
+2017,6,CA,11,Colusa                        ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,68.376,0,48437.1,5518.8,3421.8,2097,0,0,0,68.376,48437.1,8.78
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,13.5,0,2752.4,26.8,0,26.8,0,0,0,13.5,2752.4,102.7
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,2,2,99.3624,0,50605.8,4320,2678.4,1641.6,0,0,0,99.3624,50605.8,11.71
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,41,41,4843.83086,0,3043164.6,135973.2,53362.6,82610.6,0,0,0,4843.83086,3043164.6,22.38
+2017,6,CA,11,Colusa                        ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,1,1,68.376,0,48437.1,5518.8,3421.8,2097,0,0,0,68.376,48437.1,8.78
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,5,5,176.7,0,127155.6,7970.1,4236.6,3733.5,0,0,0,176.7,127155.6,15.95
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,10,OCT,2016,1,1,493.16,0,340900,20206,10507,9699,0,0,0,493.16,340900,16.87
+2017,6,CA,11,Colusa                        ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,2,2,206.868,0,144583.8,12582.4,5764.4,6818,0,0,0,206.868,144583.8,11.49
+2017,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2017,1,1,123.7,0,22745,234,0,234,0,0,0,123.7,22745,97.2
+2017,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2017,1,1,93,0,59970,2388,1075,1313,0,0,0,93,18705,7.83
+2017,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,12,Heat,9,SEP,2017,1,1,122.25,0,117503,3248,1461,1787,0,0,0,122.775,7647,2.35
+2017,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,5,5,441.792,0,268114.2,11060.4,5275.8,5784.6,0,0,0,441.792,268114.2,24.24
+2017,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,3,3,67.09386,0,49738.5,3597,2229.9,1367.1,0,0,0,67.09386,49738.5,13.83
+2017,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,3,3,67.09386,0,49738.5,3597,2229.9,1367.1,0,0,0,67.09386,49738.5,13.83
+2017,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,44,0,28028,2014,906,1108,0,0,0,44,28028,13.92
+2017,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,13,13,1070.74148,0,609832.8,23078.6,9371.4,13707.2,0,0,0,1070.74148,609832.8,26.42
+2017,6,CA,35,Lassen                        ,55,RICE,90,APH       ,A,H ,93,Wildlife,8,AUG,2017,1,1,60.1,0,76737,10017,4508,5509,0,0,0,60.1,4911,0.49
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,2,2,178.692,0,90175.2,7320.6,3388.8,3931.8,0,0,0,178.9098,90175.2,12.32
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,11,11,1929.32676,0,1097835,87154.8,44464.8,42690,0,0,0,1929.32676,1097835,12.6
+2017,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,7.976,0,5476.8,839.6,520.4,319.2,0,0,0,7.976,5476.8,6.52
+2017,6,CA,61,Placer                        ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,163.62,0,102486,8971.2,4036.8,4934.4,0,0,0,163.62,102486,11.42
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,1,1,2.28,0,1182,143.1,88.8,54.3,0,0,0,2.28,1182,8.26
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,1,1,110.5758,0,63999.6,5265.3,2369.7,2895.6,0,0,0,110.5758,63999.6,12.15
+2017,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,1,1,5.982,0,4107.6,629.7,390.3,239.4,0,0,0,5.982,4107.6,6.52
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2017,1,1,121.1,0,68088,2950,1209,1741,0,0,0,121.1,68088,23.08
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2017,3,3,122.168,0,61692.8,5071.2,2377.6,2693.6,0,0,0,122.3132,61692.8,12.17
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,14,14,4369.35224,0,2483959.8,209531.6,102436.8,107094.8,0,0,0,4369.35224,2483959.8,11.85
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,1,1,2.28,0,1182,143.1,88.8,54.3,0,0,0,2.28,1182,8.26
+2017,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,1,1,110.5758,0,63999.6,5265.3,2369.7,2895.6,0,0,0,110.5758,63999.6,12.15
+2017,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,1,1,5.982,0,4107.6,629.7,390.3,239.4,0,0,0,5.982,4107.6,6.52
+2017,6,CA,61,Placer                        ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,109.08,0,68324,5980.8,2691.2,3289.6,0,0,0,109.08,68324,11.42
+2017,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,2,2,335.13,0,168688.8,22863,10090.2,12772.8,0,0,0,335.13,168688.8,7.38
+2017,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,1,1,125.56275,0,55033.2,3493.5,1257.6,2235.9,0,0,0,125.56275,55033.2,15.75
+2017,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,6,6,1562.612,0,1045895.8,139366,77144.6,62221.4,0,0,0,1562.612,1045895.8,7.5
+2017,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,1,1,125.56275,0,55033.2,3493.5,1257.6,2235.9,0,0,0,125.56275,55033.2,15.75
+2017,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,2,2,73.414,0,44302,3935.8,1741.4,2194.4,0,0,0,87.348,49986,12.7
+2017,6,CA,77,San Joaquin                   ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,2,2,131.022,0,74979,6394.8,2788.8,3606,0,0,0,131.022,74979,11.72
+2017,6,CA,89,Shasta                        ,55,RICE,90,APH       ,A,H ,12,Heat,5,MAY,2017,2,2,254,0,339199,12423,5093,7330,0,0,0,254,90288,7.27
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,8,AUG,2017,3,3,917.7,0,1036725,48839,30279,18560,0,0,0,917.7,65023,1.33
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2017,2,2,260.1,0,226319,9332,4731,4601,0,0,0,260.94,24214,2.59
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,133,133,16331.94904,0,10295397.2,583546.2,303781.2,279765,0,0,0,16331.95306,10295397.2,17.64
+2017,6,CA,101,Sutter                        ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,6,JUN,2017,1,1,149.5,0,93289,7727,3477,4250,0,0,0,149.5,93289,12.07
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,7,7,496.341,0,230520,14437.2,8079.6,6357.6,0,0,0,496.341,230520,15.97
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,106,106,12170.47012,0,7057051.8,337185,153003,184182,0,0,0,12170.47614,7057051.8,20.93
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,6,JUN,2017,1,1,81.444,0,54864.4,2930,1318.4,1611.6,0,0,0,81.444,54864.4,18.73
+2017,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,1,1,45.87,0,28596.3,2540.7,1321.2,1219.5,0,0,0,45.87,28596.3,11.26
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,2,2,165.18,0,91622.1,3420.9,1628.4,1792.5,0,0,0,165.18,91622.1,26.78
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2017,13,13,4421.5,0,3280208,253209,154479,98730,0,0,0,4421.5,3280208,12.95
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2017,7,7,330.894,0,153680,9624.8,5386.4,4238.4,0,0,0,330.894,153680,15.97
+2017,6,CA,101,Sutter                        ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,42.3,0,28884,2317.8,1042.8,1275,0,0,0,42.3,28884,12.46
+2017,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,1,1,45.87,0,28596.3,2540.7,1321.2,1219.5,0,0,0,45.87,28596.3,11.26
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,2,2,165.18,0,91622.1,3420.9,1628.4,1792.5,0,0,0,165.18,91622.1,26.78
+2017,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,3,3,1252.36,0,903465.4,95367.6,58789.6,36578,0,0,0,1252.36,903465.4,9.47
+2017,6,CA,101,Sutter                        ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,28.2,0,19256,1545.2,695.2,850,0,0,0,28.2,19256,12.46
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,51,Flood,6,JUN,2017,1,1,750.8,0,500510,38349,23776,14573,0,0,0,750.8,500510,13.05
+2017,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PT,61,Wind/Excess Wind,4,APR,2017,1,1,4.94,0,3504.4,164,73.6,90.4,0,0,0,4.94,3504.4,21.37
+2017,6,CA,101,Sutter                        ,55,RICE                          ,90,APH       ,A,H ,12,Heat,7,JUL,2017,2,2,84.11,0,119847,6869,2816,4053,0,0,0,84.11,30828,4.49
+2017,6,CA,101,Sutter                        ,55,RICE                          ,90,APH       ,A,UH,12,Heat,7,JUL,2017,1,1,97.8,0,149447,11374,5118,6256,0,0,0,97.83,149447,13.14
+2017,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,5,MAY,2017,7,7,5727.6,0,2672752,518837,286957,231880,0,0,0,5727.6,2672752,5.15
+2017,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,79,0,13758,524,0,524,0,0,0,79,13758,26.26
+2017,6,CA,113,Yolo                          ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,154.5,0,100604,19643,12179,7464,0,0,0,154.5,100604,5.12
+2017,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2017,1,1,54.6,0,9650,365,0,365,0,0,0,54.6,9650,26.44
+2017,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,22,22,3896.056,0,2012530,311409.6,149338.4,162071.2,0,0,0,3896.056,2012530,6.46
+2017,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,10,10,1976.334,0,1013214,166325.4,75168.6,91156.8,0,0,0,1976.334,1013214,6.09
+2017,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,87.8085,0,43960.2,2854.2,1284.6,1569.6,0,0,0,87.8085,43960.2,15.4
+2017,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,11,11,986.379,0,589022.4,31347.6,13538.4,17809.2,0,0,0,986.379,589022.4,18.79
+2017,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,2,FEB,2017,1,1,34.77,0,13759.8,653.7,267.9,385.8,0,0,0,34.77,13759.8,21.05
+2017,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,58.539,0,29306.8,1902.8,856.4,1046.4,0,0,0,58.539,29306.8,15.4
+2017,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,15,15,1778.446,0,1035611,53345,23027.8,30317.2,0,0,0,1779.246,1035611,19.41
+2017,6,CA,115,Yuba                          ,18,RICE                          ,2,RP        ,A,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,514.18,0,252679,26804,12062,14742,0,0,0,514.18,252679,9.43
+2017,6,CA,115,Yuba                          ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,1,1,17.28,0,11284.8,944.4,424.8,519.6,0,0,0,17.28,11284.8,11.95
+2017,6,CA,115,Yuba                          ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,86.04,0,53626.2,5268.6,2476.2,2792.4,0,0,0,86.04,53626.2,10.18
+2017,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PT,31,Excess Moisture/Precipitation/Rain,1,JAN,2017,1,1,34.77,0,13759.8,653.7,267.9,385.8,0,0,0,34.77,13759.8,21.05
+2017,6,CA,115,Yuba                          ,18,RICE                          ,3,RPHPE     ,A,PT,31,Excess Moisture/Precipitation/Rain,4,APR,2017,3,3,492.06,0,284942.8,24898.4,11274.8,13623.6,0,0,0,492.06,284942.8,11.44
+2017,6,CA,115,Yuba                          ,18,RICE                          ,2,RP        ,A,PT,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,25.92,0,16927.2,1416.6,637.2,779.4,0,0,0,25.92,16927.2,11.95
+2017,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2017,1,1,36,0,6596,95,0,95,0,0,0,36,6596,69.43
+2018,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,12,DEC,2018,1,1,592.41,0,857508,28072,45277,17205,0,0,0,592.41,42398,1.51
+2018,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2018,1,1,211.9,0,302618,9990,16113,6123,0,0,0,211.9,11141,1.12
+2018,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2018,1,1,218.5,0,280481,4978,10593,5615,0,0,0,218.5,16592,3.33
+2018,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,H ,12,Heat,7,JUL,2018,1,1,389.59288,0,569018,11651,24788,13137,0,0,0,389.5929,71525,6.14
+2018,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,1,1,163.3,0,105913,2722,6048,3326,0,0,0,163.3,105913,38.91
+2018,6,CA,7,Butte                         ,18,RICE                          ,32,SCO-RP    ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,6,JUN,2019,2,2,0,210.525,2362,162,462,300,0,0,0,0,1918,11.84
+2018,6,CA,7,Butte                         ,18,RICE                          ,33,SCO-RPHPE ,A,FL,55,ARPI/SCO/STAX/MP Crops Only,6,JUN,2019,29,29,0,7649.15038,1428542,28883,82520,53637,0,0,0,0,101047,3.5
+2018,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2018,1,1,170.9514,0,248397,6907,11140,4233,0,0,0,170.9514,11175,1.62
+2018,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2018,1,1,44.76,0,80281.2,1396.2,3103.2,1707,0,0,0,44.76,43327.8,31.03
+2018,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PF,13,Failure of Irrigation Supply,5,MAY,2018,1,1,147.6625,0,146256,3004,7327,4323,0,0,0,147.6625,146256,48.69
+2018,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,43,Cold Winter,8,AUG,2018,1,1,137.4,0,167818,4259,6870,2611,0,0,0,137.4,5984,1.41
+2018,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,61,Wind/Excess Wind,12,DEC,2018,1,1,29.84,0,53520.8,930.8,2068.8,1138,0,0,0,29.84,28885.2,31.03
+2018,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2018,2,2,529,0,742828,18697,34038,15341,0,0,0,529,12314,0.66
+2018,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2018,3,3,193.294,0,214218.9,4846.9,8536.1,3689.2,0,0,0,193.294,84229.1,17.38
+2018,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2018,2,2,151.396,0,197326.7,4667.6,7528.7,2861.1,0,0,0,151.396,71584.8,15.34
+2018,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2018,1,1,17.982,0,8194,58.8,177.6,118.8,0,0,0,17.982,8194,139.35
+2018,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,1,1,26.973,0,12291,88.2,266.4,178.2,0,0,0,26.973,12291,139.35
+2018,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,81,Plant Disease,10,OCT,2018,1,1,89.3,0,120304,3001,5770,2769,0,0,0,89.3,17349,5.78
+2018,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,H ,91,Fire,1,JAN,2018,1,1,31.86,0,25361.4,505.5,1123.2,617.7,0,0,0,31.86,11993.1,23.73
+2018,6,CA,35,Lassen                        ,55,RICE,90,APH       ,A,H ,12,Heat,6,JUN,2018,1,1,81,0,41816.7,1023.3,2843.1,1819.8,0,0,0,81,7172.1,7.01
+2018,6,CA,35,Lassen                        ,55,RICE,90,APH       ,A,H ,93,Wildlife,6,JUN,2018,1,1,9,0,4646.3,113.7,315.9,202.2,0,0,0,9,796.9,7.01
+2018,6,CA,35,Lassen                        ,55,RICE,90,APH       ,A,H ,93,Wildlife,7,JUL,2018,1,1,161.028,0,205500,9822,21827,12005,0,0,0,161.028,19394,1.97
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2018,1,1,119.37,0,101384.4,2278.5,5063.1,2784.6,0,0,0,119.37,19036.2,8.35
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2018,3,3,1389.28,0,1459857,27289,60647,33358,0,0,0,1389.28,463725,16.99
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,UH,12,Heat,6,JUN,2018,1,1,66.9,0,80688,2179,4842,2663,0,0,0,66.9,76181,34.96
+2018,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,1,1,5.8695,0,4256.5,345.5,557.5,212,0,0,0,5.8695,4256.5,12.32
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,4,APR,2018,1,1,3.8,0,2457.5,155,250,95,0,0,0,3.8,2457.5,15.85
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,8,8,1009.738,0,666867,25443,52438,26995,0,0,0,1009.738,666867,26.21
+2018,6,CA,61,Placer                        ,18,RICE                          ,2,RP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2018,1,1,5.8695,0,4256.5,345.5,557.5,212,0,0,0,5.8695,4256.5,12.32
+2018,6,CA,61,Placer                        ,18,RICE                          ,3,RPHPE     ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,1,1,272.7,0,207399,9376,18031,8655,0,0,0,272.7,207399,22.12
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2018,1,1,3.8,0,2457.5,155,250,95,0,0,0,3.8,2457.5,15.85
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2018,1,1,155.1,0,89056,3715,8254,4539,0,0,0,155.1,89056,23.97
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,43,Cold Winter,8,AUG,2018,1,1,75.53,0,51843.4,1004.5,2231.6,1227.1,0,0,0,75.53,17205.3,17.13
+2018,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,44,Cold Wet Weather,8,AUG,2018,1,1,203,0,184720.2,4312,9582.3,5270.3,0,0,0,203,27212.5,6.31
+2018,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,1,1,78.23,0,36608,1366,3795,2429,0,0,0,78.23,36608,26.8
+2018,6,CA,89,Shasta                        ,55,RICE,90,APH       ,A,H ,12,Heat,7,JUL,2018,1,1,25.2,0,8977.8,133.2,403.2,270,0,0,0,25.2,3170.4,23.8
+2018,6,CA,89,Shasta                        ,55,RICE,90,APH       ,A,H ,12,Heat,6,JUN,2018,1,1,58,0,50388,1264,2808,1544,0,0,0,58,6191,4.9
+2018,6,CA,89,Shasta                        ,55,RICE,90,APH       ,A,H ,93,Wildlife,7,JUL,2018,1,1,16.8,0,5985.2,88.8,268.8,180,0,0,0,16.8,2113.6,23.8
+2018,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,H ,1,Decline in Price,10,OCT,2018,2,2,344.4,0,311594,12376,19960,7584,0,0,0,344.4,6236,0.5
+2018,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2018,3,3,199.01,0,199581,4455,8360,3905,0,0,0,199.01,68065,15.28
+2018,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,15,15,1677.49124,0,1316294.82,33186.05,76493.15,43307.1,0,0,0,1677.4912,1316294.82,39.66
+2018,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2018,6,6,724.771,0,711347.18,36964.95,61150.85,24185.9,0,0,0,724.771,711347.18,19.24
+2018,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,1,1,64,0,43602,1961,3772,1811,0,0,0,64,43602,22.23
+2018,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,99,"Other (Snow, Lightning, Etc.)",8,AUG,2018,2,2,319.4,0,325208,10244,16522,6278,0,0,0,319.4,175010,17.08
+2018,6,CA,101,Sutter                        ,55,RICE                          ,90,APH       ,A,H ,12,Heat,7,JUL,2018,1,1,45,0,40784,1241,3028,1787,0,0,0,45,19217,15.49
+2018,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2018,1,1,374.3,0,404936.55,40904.15,65973.7,25069.55,0,0,0,374.585,39094.4,0.96
+2018,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2018,6,6,982.35,0,503856.6,35849.4,74703,38853.6,0,0,0,982.35,503856.6,14.05
+2018,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,7,JUL,2018,1,1,19.7,0,21312.45,2152.85,3472.3,1319.45,0,0,0,19.715,2057.6,0.96
+2018,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2018,5,5,1259.5,0,503695.2,75616,122171.2,46555.2,0,0,0,1259.5,503695.2,6.66
+2018,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PF,51,Flood,4,APR,2018,2,2,417.4,0,192351.2,8891.6,25384.8,16493.2,0,0,0,417.4,192351.2,21.63
+2019,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PF,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,4,4,137.000691,0,94678.2,6081.3,2814.9,3266.4,0,0,0,137.0007,86245.5,14.18
+2019,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,13,13,907.837588,0,609817.6,39038.4,16554.2,22484.2,0,0,0,907.8376,598574,15.33
+2019,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,9,9,1322.067309,0,836890.9,41457,17610,23847,0,0,0,1322.0673,836890.9,20.19
+2019,6,CA,7,Butte                         ,18,RICE                          ,2,RP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,2,2,214.8775,0,126085,18784,11646,7138,0,0,0,214.8775,126085,6.71
+2019,6,CA,7,Butte                         ,18,RICE                          ,3,RPHPE     ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,4,4,137.000691,0,94678.2,6081.3,2814.9,3266.4,0,0,0,137.0007,86245.5,14.18
+2019,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2019,3,3,164.142,0,99998.8,5223,2349.8,2873.2,0,0,0,164.142,99998.8,19.15
+2019,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,1,1,43,0,42437,949,389,560,0,0,0,43,14722,15.51
+2019,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,20,20,1336.655629,0,888278.3,47386.8,20699.6,26687.2,0,0,0,1336.65562,888278.3,18.75
+2019,6,CA,7,Butte                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,44,44,5860.175292,0,3793942,194136.2,78456.6,115679.6,0,0,0,5860.17528,3793942,19.54
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2019,1,1,110.24,0,146965,6992,3146,3846,0,0,0,110.24,57432,8.21
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,6,JUN,2019,1,1,199.82,0,182242,5882,2412,3470,0,0,0,199.82,33515,5.7
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,21,Hail,9,SEP,2019,3,3,784.8857,0,831436,24151,11104,13047,0,0,0,784.8857,372053,15.41
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,14,14,2339.85304,0,1545736.2,77152.6,31762.5,45390.1,0,0,0,2339.85304,1545736.2,20.03
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,4,4,565.5336,0,418406.2,21843.4,10375.3,11468.1,0,0,0,564.5336,417662.2,19.12
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,17,17,2313.36568,0,1480062.2,75072.6,32283.6,42789,0,0,0,2333.30536,1495649.2,19.92
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2019,3,3,39.548,0,25430.4,1803.2,920,883.2,0,0,0,39.548,25430.4,14.1
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,2,2,35.44,0,34344,1636,736,900,0,0,0,35.44,31876,19.48
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,H ,44,Cold Wet Weather,6,JUN,2019,1,1,88.39,0,149787,4338,1779,2559,0,0,0,88.39,37882,8.73
+2019,6,CA,11,Colusa                        ,18,RICE                          ,1,YP        ,A,P2,51,Flood,5,MAY,2019,1,1,30.5,0,22128,1611,999,612,0,0,0,30.5,22128,13.74
+2019,6,CA,19,Fresno                        ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,1,1,69.7,0,16710,1233,407,826,0,0,0,69.7,16710,13.55
+2019,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,7,7,469.005,0,335071.5,17153.1,8622,8531.1,0,0,0,469.005,335071.5,19.53
+2019,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2019,1,1,97.8,0,65134,3926,2042,1884,0,0,0,97.8,65134,16.59
+2019,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,3,3,91.719,0,63442.5,3497.7,1899,1598.7,0,0,0,91.719,63442.5,18.14
+2019,6,CA,21,Glenn                         ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,8,8,446.786,0,319681,17514.2,9337,8177.2,0,0,0,446.786,319681,18.25
+2019,6,CA,21,Glenn                         ,18,RICE                          ,3,RPHPE     ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,1,1,21.21,0,16157,916,293,623,0,0,0,21.21,16157,17.64
+2019,6,CA,35,Lassen                        ,55,RICE,90,APH       ,A,H ,93,Wildlife,8,AUG,2019,1,1,47.9385,0,64872,5582,2512,3070,0,0,0,47.9385,49413,8.85
+2019,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2019,3,3,601.35,0,547283,23525,10586,12939,0,0,0,601.76,206188,8.76
+2019,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,9,9,1346.326,0,794789.8,64235.8,28572,35663.8,0,0,0,1346.326,794789.8,12.37
+2019,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2019,4,4,500.874,0,277993.8,21355.8,9846.6,11509.2,0,0,0,500.874,277993.8,13.02
+2019,6,CA,61,Placer                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,3,3,402.66,0,265157.4,22319.4,9995.4,12324,0,0,0,402.66,265157.4,11.88
+2019,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,H ,12,Heat,8,AUG,2019,1,1,399.6,0,289521,23511,9639,13872,0,0,0,399.6,70664,3.01
+2019,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,1,1,25.2,0,18274.5,1985.7,1032.6,953.1,0,0,0,25.2,18274.5,9.2
+2019,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,9,9,1664.91,0,1172404.6,139974.8,80471.8,59503,0,0,0,1664.91,1172404.6,8.38
+2019,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,3,3,456.888,0,277266.9,24164.7,9550.8,14613.9,0,0,0,456.888,277266.9,11.47
+2019,6,CA,67,Sacramento                    ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2019,1,1,71.412,0,30993,3970.8,1627.8,2343,0,0,0,71.412,30993,7.81
+2019,6,CA,67,Sacramento                    ,18,RICE                          ,2,RP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,1,1,198.1,0,74112,9140,4113,5027,0,0,0,198.1,74112,8.11
+2019,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,1,1,253,0,121756,6724,2757,3967,0,0,0,253,13070,1.94
+2019,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,UH,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,1,1,530.5,0,341173,13935,5713,8222,0,0,0,530.5,305088,21.89
+2019,6,CA,89,Shasta                        ,55,RICE                          ,90,APH       ,A,H ,93,Wildlife,8,AUG,2019,1,1,107.63,0,75206,4827,2172,2655,0,0,0,107.63,52844,10.95
+2019,6,CA,99,Stanislaus                    ,18,RICE                          ,1,YP        ,A,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,1,1,10.384,0,4116,386,158,228,0,0,0,10.384,4116,10.66
+2019,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2019,4,4,634.93,0,798537,42854,25550,17304,0,0,0,634.93,206611,4.82
+2019,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,H ,21,Hail,9,SEP,2019,4,4,1209.5,0,1356525,59390,35588,23802,0,0,0,1212.7,98415,1.66
+2019,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,42,42,4408.67024,0,2905462.6,186288.8,92676.2,93612.6,0,0,0,4408.67024,2905462.6,15.6
+2019,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2019,14,14,1156.518334,0,853043.8,58874,31184.4,27689.6,0,0,0,1156.51832,853043.8,14.49
+2019,6,CA,101,Sutter                        ,18,RICE                          ,3,RPHPE     ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,1,1,307.92,0,236883,20298,12585,7713,0,0,0,307.92,236883,11.67
+2019,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,73,73,9516.78305,0,7219046.2,557805,319359.6,238445.4,0,0,0,9516.78304,7219046.2,12.94
+2019,6,CA,101,Sutter                        ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,2,2,169.456,0,126307.4,7204.2,3552.8,3651.4,0,0,0,169.456,126307.4,17.53
+2019,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,12,Heat,7,JUL,2019,1,1,113,0,63708,2540,838,1702,0,0,0,113,3492,1.37
+2019,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,H ,21,Hail,9,SEP,2019,1,1,63,0,73728,6259,3881,2378,0,0,0,63,11089,1.77
+2019,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,21,21,6243.624,0,4562166.8,668639,360332.8,308306.2,0,0,0,6243.624,4562166.8,6.82
+2019,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2019,3,3,1350.282,0,952810.2,113660.4,39624.6,74035.8,0,0,0,1350.282,952810.2,8.38
+2019,6,CA,113,Yolo                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,8,8,1481.454,0,941808,119376.6,62076.6,57300,0,0,0,1481.454,941808,7.89
+2019,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,H ,21,Hail,9,SEP,2019,1,1,92.88,0,87128,2860,1287,1573,0,0,0,92.88,4733,1.65
+2019,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,1,1,23.664,0,8586.3,378.6,125.1,253.8,0,0,0,23.664,8586.3,22.68
+2019,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,1,1,23.664,0,8586.3,378.6,125.1,253.8,0,0,0,23.664,8586.3,22.68
+2019,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,4,4,203.244,0,110689.8,5786.4,2448.8,3338,0,0,0,203.244,110689.8,19.13
+2019,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,3,MAR,2019,1,1,23.298,0,4402.5,101.1,337,101.1,0,0,0,23.298,4402.5,43.55
+2019,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,A,PF,31,Excess Moisture/Precipitation/Rain,4,APR,2019,2,2,122.028,0,66372.6,3176.4,1287,1889.4,0,0,0,122.028,66372.6,20.9
+2019,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,2,FEB,2019,1,1,23.298,0,4402.5,101.1,337,101.1,0,0,0,23.298,4402.5,43.55
+2019,6,CA,115,Yuba                          ,18,RICE                          ,1,YP        ,C,P2,31,Excess Moisture/Precipitation/Rain,5,MAY,2019,1,1,31.064,0,5870,134.8,337,134.8,0,0,0,31.064,5870,43.55
