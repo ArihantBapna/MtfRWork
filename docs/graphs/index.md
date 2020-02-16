@@ -1,1 +1,1 @@
-[Graphs](https://www.google.com)
+[NewPage]
