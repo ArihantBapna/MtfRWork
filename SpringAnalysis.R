@@ -1,4 +1,4 @@
-spring  <- select(filter(CauseOfLoss, MonthOfLoss == 3 | MonthOfLoss == 4 | MonthOfLoss == 5),c(Year,MonthOfLoss, MonthOfLossName, CauseOfLossDescription, NetPlantedAcres,PoliciesIndemnified,Liability, Indemnity))
+spring  <- select(filter(CauseOfLoss, MonthOfLoss == 3 | MonthOfLoss == 4 | MonthOfLoss == 5 & Year >= 2010),c(Year,MonthOfLoss, MonthOfLossName, CauseOfLossDescription, NetPlantedAcres,PoliciesIndemnified,Liability, Indemnity))
 v <- c()
 y <- c()
 for(i in levels(factor(spring$CauseOfLossDescription))){
