@@ -3,6 +3,8 @@ Model The Future Work
 
 # Graphs
 
+>These graphs have been made at 3.am and before. Please don't judge too harshly 
+
 ## Annual Seasonal Causes of Loss
 [Autumn](https://arihantbapna.github.io/MtfRWork/graphs/Autumn.html)
 
@@ -15,6 +17,10 @@ Model The Future Work
 ## Trends in temperature by season
 
 [Autumn Trends](https://arihantbapna.github.io/MtfRWork/graphs/AutumnTemperatureTrends.html)
+
 [Spring Trends](https://arihantbapna.github.io/MtfRWork/graphs/SpringTemperatureTrends.html)
+
 [Winter Trends](https://arihantbapna.github.io/MtfRWork/graphs/WinterTemperatureTrends.html)
+
 [Summer Trends](https://arihantbapna.github.io/MtfRWork/graphs/SummerTemperatureTrends.html)
+
