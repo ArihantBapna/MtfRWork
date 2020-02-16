@@ -1,4 +1,4 @@
-autumn  <- select(filter(CauseOfLoss, MonthOfLoss == 9 | MonthOfLoss == 10 | MonthOfLoss == 11),c(Year,MonthOfLoss, MonthOfLossName, CauseOfLossDescription, NetPlantedAcres,PoliciesIndemnified,Liability, Indemnity))
+autumn  <- select(filter(CauseOfLoss, MonthOfLoss == 9 | MonthOfLoss == 4 | MonthOfLoss == 5),c(Year,MonthOfLoss, MonthOfLossName, CauseOfLossDescription, NetPlantedAcres,PoliciesIndemnified,Liability, Indemnity))
 v <- c()
 y <- c()
 for(i in levels(factor(autumn$CauseOfLossDescription))){
@@ -16,5 +16,5 @@ for(i in levels(factor(autumn$CauseOfLossDescription))){
 df <- data.frame("CauseOfLoss" = levels(factor(autumn$CauseOfLossDescription)), "Loss/Acre" = v, title="For autumns")
 plot <- plot_ly(df,x=~Loss.Acre, y=~CauseOfLoss, orientation='h')
 plot
-
+remove(autumn,v,varSum,varSumLoss,df,varSumDb)
 remove(df,plot,autumn,i,v,varSum,varSumDb,varSumLoss,x, y)
