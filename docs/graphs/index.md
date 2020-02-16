@@ -1,1 +1,7 @@
-[NewPage]
+[Acres Harvested](../avg%20acres%20harvested%20COLUSA%2C%20GLENN%20and%20SUTTER%201995-2018.png)
+[Average Precipitation](../avg precip sacramento valley 1995-2018.png)
+[Average Temperatures Sacremento Valley](../avg temps sacramento valley 1995-2018.png)
+[Average Yield : lbs / Acre](../avg yield lb_acre for COLUSA, GLENN and SUTTER 1995-2018.png)
+[Counties Avg Acres Harvested](../counties avgd acres harvested 1995-2018.png)
+[Counties Avg Lbs / Acre](../counties avgd lb_acre 1995-2018.png)
+[Drough Index Psi](../drought index pdsi sacremento valley 1995-2018.png)
