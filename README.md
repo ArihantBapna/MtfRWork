@@ -2,10 +2,10 @@
 Model The Future Work
 
 ## Graphs
-[Autumn](graphs/Autumn.html)
+[Autumn](https://arihantbapna.github.io/MtfRWork/graphs/Autumn.html)
 
-[Spring](graphs/Spring.html)
+[Spring](https://arihantbapna.github.io/MtfRWork/graphs/Spring.html)
 
-[Winters](graphs/Winters.html)
+[Winters](https://arihantbapna.github.io/MtfRWork/graphs/Winters.html)
 
-[Summer](graphs/Summer.html)
+[Summer](https://arihantbapna.github.io/MtfRWork/graphs/Summer.html)
