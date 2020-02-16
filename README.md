@@ -24,9 +24,9 @@ Model The Future Work
 
 [Summer Trends](https://arihantbapna.github.io/MtfRWork/graphs/SummerTemperatureTrends.html)
 
-## County Analysis
+##  County Analysis
 
 >So the calculation for this is `(Liabilities - Indemnity) / Liabilities`. 
 >It gives us a value for how much loss did the county incur given that they were expecting a loss. Might be a good way to look at losses for a county in my opinion.
 
-[Counties of California](https://arihantbapna.github.io/MtfRWork/graphs/CountyAnalysis.html)
+[Counties of California ](https://arihantbapna.github.io/MtfRWork/graphs/CountyAnalysis.html)
