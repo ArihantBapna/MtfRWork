@@ -4,7 +4,6 @@ desc <- factor(CauseOfLoss$CauseOfLossDescription)
 remove(desc)
 
 
-summer <- select(filter(CauseOfLoss, MonthOfLoss >= 6, MonthOfLoss <= 8),c(Year,MonthOfLoss, MonthOfLossName, CauseOfLossDescription, NetPlantedAcres,PoliciesIndemnified,Liability, Indemnity))
 
 remove(months)
 
@@ -17,11 +16,5 @@ p<- ggplot(data=summer, aes(x=factor(summer$CauseOfLossDescription), y=sum(summe
   coord_flip()
 p
 
-for(i in levels(factor(summer$CauseOfLossDescription))){
-  varSumDb <- select(filter(summer, CauseOfLossDescription == i), c(Indemnity))
-  varSum <- sum(varSumDb$Indemnity)
-  print(i) 
-  print(varSum)
-  print(" ")
-}
+
 

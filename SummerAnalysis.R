@@ -14,8 +14,8 @@ for(i in levels(factor(summer$CauseOfLossDescription))){
   y <- c(y, varSumDb$Year)
 }
 
-df <- data.frame("CauseOfLoss" = levels(factor(summer$CauseOfLossDescription)), "Loss/Acre" = v, "Year" = levels(factor(y)))
-summerPlot <- plot_ly(df,x=~Loss.Acre, y=~CauseOfLoss, orientation='h', fill = ~Year)
+df <- data.frame("CauseOfLoss" = levels(factor(summer$CauseOfLossDescription)), "Loss/Acre" = v)
+summerPlot <- plot_ly(df,x=~Loss.Acre, y=~CauseOfLoss, orientation='h')
 summerPlot
 
 remove(df,summerPlot,summer,i,v,varSum,varSumDb,varSumLoss,x, y)
