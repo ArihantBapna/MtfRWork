@@ -9,15 +9,16 @@ for(i in levels(factor(CauseOfLoss$`Year`))){
   plant <- sum(varSumDb$NetPlantedAcres)
   
   #Get the percent losses for each year factoring in expected loss, loss incurred and adjusting for variance in acres planted
-  pLoss <- (lib-indem)/(plant)
+  pLoss <- (indem)/(plant)
   
   df <- rbind(df, data.frame("PLoss/A" = pLoss,"Year" = i))
 }
 
-#Get the Anomaly values binded to this data
+#Get Losses on a monthly basis
 
 
 
-remove(i,indem,lib,plant,df,varSumDb,pLoss)
+
+remove(i,indem,lib,plant,varSumDb,pLoss)
 AnnualClimate <- df
 remove(df)
