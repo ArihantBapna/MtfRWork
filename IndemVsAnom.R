@@ -60,9 +60,9 @@ Spr <- data.frame("MinAnom" = c(), "MaxAnom" = c(), "AvgVal" = c())
 Aut <- data.frame("MinAnom" = c(), "MaxAnom" = c(), "AvgVal" = c())
 Win <- data.frame("MinAnom" = c(), "MaxAnom" = c(), "AvgVal" = c())
 
-for(i in TempData$Date){
+for(i in levels(factor(TempData$Date))){
   yearDat <-  select(filter(TempData, `Date` == i), c(Value, Month, Anomaly))
-  
+  print(i)
   SumTemp<- select(filter(yearDat, `Month` >= 6, `Month` <=8), c(Value,Anomaly))
   minSumAnom <- min(SumTemp$Anomaly)
   maxSumAnom <- max(SumTemp$Anomaly)
