@@ -1,14 +1,21 @@
 p <- c()
-
+q <- c()
 for(i in levels(factor(AnnualReport$`County Name`))){
-  db <- select(filter(AnnualReport,str_detect(AnnualReport$`County Name`,i)), c(`Commodity Year`,`Liabilities ($)`, `Indemnity ($)`))
-  sumLoss <- sum(db$`Indemnity ($)`)
-  sumLib <- sum(db$`Liabilities ($)`)
-  x <- (sumLib - sumLoss)/(sumLib)
-  p <- c(p,x)
+  db <- select(filter(AnnualReport,AnnualReport$`County Name` == i), c(`Commodity Year`,`Liabilities ($)`, `Indemnity ($)`))
 }
-df <- data.frame("County" = levels(factor(AnnualReport$`County Name`)), "Percent.Loss.Incurred" = p )
-plot <- plot_ly(df,y=~County, x=~Percent.Loss.Incurred, orientation='h')
+
+
+for(j in levels(factor(AnnualReport$`Commodity Year`))){
+  db2 <- select(filter(AnnualReport,AnnualReport$`Commodity Year` == j), c(`Commodity Year`, `Indemnity ($)` ))
+  sumLoss <- sum(db2$`Indemnity ($)`)
+  p <- c(p,sumLoss)
+  q <- c(q,j)
+}
+
+df <- data.frame("Years" = q, "Indemnity" = p )
+plot <- plot_ly(df,x=~Years, y=~Indemnity, orientation='v', type='scatter')
 plot
 
+
 remove(i,p,db,sumLoss,sumLib,x)
+
