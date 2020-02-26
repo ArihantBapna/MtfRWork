@@ -14,7 +14,7 @@ for(j in levels(factor(AnnualReport$`Commodity Year`))){
 
 df <- data.frame("Years" = q, "Indemnity" = p )
 plot <- plot_ly(df,x=~Years, y=~Indemnity, orientation='v', type='scatter')
-plot
+
 
 
 remove(i,p,db,sumLoss,sumLib,x)

@@ -51,7 +51,7 @@ for(i in levels(factor(CauseOfLoss$`Year`))){
 remove(i,subDb,Summer,Autumn,Winter,Spring, lossWinter,lossAutumn)
 
 #Run this to clear
-remove(GlobSpring,GlobSummer,GlobAutumn,GlobWinter)
+#remove(GlobSpring,GlobSummer,GlobAutumn,GlobWinter)
 
 
 #Seperate the temperature data seasonally
@@ -83,7 +83,7 @@ for(i in levels(factor(TempData$Date))){
   avgAutVal <- mean(AutTemp$Value)
   
   Aut <- rbind(Aut,data.frame(minAutAnom,maxAutAnom,avgAutVal))
-  
+  #compare losesses w temp 
   
   WinTemp<- select(filter(yearDat, `Month` >= 3, `Month` <=5), c(Value,Anomaly))
   minWinAnom <- min(WinTemp$Anomaly)
@@ -91,10 +91,23 @@ for(i in levels(factor(TempData$Date))){
   avgWinVal <- mean(WinTemp$Value)
   
   Win <- rbind(Win,data.frame(minWinAnom,maxWinAnom,avgWinVal))
-  
-  
 
 }
 
+
+p <- ggplot(data = GlobAutumn, aes( x = abs(GlobAutumn$avgAutVal) , y = GlobAutumn$`Loss.Acre`))+
+  geom_smooth(method="lm")
+p  
+
+
+fit <- lm(GlobSummer$Loss.Acre ~ GlobSummer$avgSumVal, data=GlobSummer)
+
+
+
 remove(avgWinVal,maxSumAnom,minSumAnom,SumTemp,yearDat,i,avgSumVal,maxSprAnom,SprTemp,minSprAnom,maxWinAnom,minWinAnom,WinTemp,avgAutVal,maxAutAnom,minAutAnom,AutTemp,avgSprVal)
-remove(Aut,Spr,Win,Sum)
+#remove(Aut,Spr,Win,Sum)
+
+#Anova trial
+fit <- lm(GlobSummer$Loss.Acre ~ GlobSummer$avgSumVal + GlobSummer$maxSumAnom, data=GlobSummer)
+anova(fit)
+summary(anova(fit))
