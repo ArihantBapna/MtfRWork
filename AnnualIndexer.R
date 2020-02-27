@@ -12,10 +12,16 @@ AnnualSummary <- select(AnnualSummary,-c(PLoss))
 remove(AnnualPrecip)
 
 
-p <- ggplot(AnnualSummary,aes(x=AnnualSummary$Value, y=AnnualSummary$Precip))+
-  geom_point()+
-  geom_smooth()
+p <- ggplot(AnnualSummary,aes(x=AnnualSummary$Year,y=AnnualSummary$Pindem))+
+  geom_boxplot()
+
 p <- ggplotly(p)
 p
 cor(AnnualSummary$PLoss,AnnualSummary$Precip)
 cor.test(AnnualSummary$Precip,AnnualSummary$PLoss)
+
+fit <- lm(AnnualSummary$PLoss~AnnualSummary$Precip)
+summary(fit)
+anova(fit)
+chisq.test(AnnualSummary$Year, AnnualSummary$Indemnity)
+``
