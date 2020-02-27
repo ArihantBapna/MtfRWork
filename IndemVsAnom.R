@@ -51,7 +51,7 @@ for(i in levels(factor(CauseOfLoss$`Year`))){
 remove(i,subDb,Summer,Autumn,Winter,Spring, lossWinter,lossAutumn)
 
 #Run this to clear
-#remove(GlobSpring,GlobSummer,GlobAutumn,GlobWinter)
+remove(GlobSpring,GlobSummer,GlobAutumn,GlobWinter)
 
 
 #Seperate the temperature data seasonally
@@ -95,17 +95,37 @@ for(i in levels(factor(TempData$Date))){
 }
 
 
-p <- ggplot(data = GlobAutumn, aes( x = abs(GlobAutumn$avgAutVal) , y = GlobAutumn$`Loss.Acre`))+
-  geom_smooth(method="lm")
-p  
-
-
-fit <- lm(GlobSummer$Loss.Acre ~ GlobSummer$avgSumVal, data=GlobSummer)
-
-
-
 remove(avgWinVal,maxSumAnom,minSumAnom,SumTemp,yearDat,i,avgSumVal,maxSprAnom,SprTemp,minSprAnom,maxWinAnom,minWinAnom,WinTemp,avgAutVal,maxAutAnom,minAutAnom,AutTemp,avgSprVal)
 #remove(Aut,Spr,Win,Sum)
+
+#dataset merging
+GlobSummer <- cbind(GlobSummer,Sum)
+GlobAutumn <- cbind(GlobAutumn,Aut)
+GlobSpring <- cbind(GlobSpring,Spr)
+GlobWinter <- cbind(GlobWinter,Win)
+
+remove(Sum,Win,Aut,Spr)
+
+
+
+#Temperature and Loss corr
+
+#Calculating annual temperature and loss
+GlobSummer <- cbind(GlobSummer, "Dist" = GlobSummer$maxSumAnom - GlobSummer$minSumAnom)
+GlobAutumn <- cbind(GlobAutumn, "Dist" = GlobAutumn$maxAutAnom - GlobAutumn$minAutAnom)
+GlobSpring <- cbind(GlobSpring, "Dist" = GlobSpring$maxSprAnom - GlobSpring$minSprAnom)
+GlobWinter <- cbind(GlobWinter, "Dist" = GlobWinter$maxWinAnom - GlobWinter$minWinAnom)
+
+AnnualLvT <- data.frame("Year" = c(), "Loss/Acre" = c(),"Dist" = c())
+for(i in levels(factor(AnnualReport$`Commodity Year`))){
+  i <- as.numeric(i)
+  r <- (i-2009) + 1
+  netAnnualLoss <- GlobSummer[r,]$Loss.Acre + GlobWinter[r,]$Loss.Acre + GlobAutumn[r,]$Loss.Acre + GlobSpring[r,]$Loss.Acre
+  avgAnnualDis <- mean(GlobSummer[r,]$Dist,GlobSpring[r,]$Dist,GlobWinter[r,]$Dist,GlobAutumn[r,]$Dist)  
+  AnnualLvT <- rbind(AnnualLvT, data.frame("Year" =i,"Loss/Acre" =netAnnualLoss,"Dist" =avgAnnualDis))
+}
+remove(i,r,netAnnualLoss,avgAnnualDis)
+
 
 #Anova trial
 fit <- lm(GlobSummer$Loss.Acre ~ GlobSummer$avgSumVal + GlobSummer$maxSumAnom, data=GlobSummer)
