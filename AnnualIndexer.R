@@ -17,7 +17,8 @@ p <- ggplot(AnnualSummary,aes(y=AnnualSummary$Pindem))+
 
 p <- ggplotly(p)
 p
-cor(AnnualSummary$PLoss,AnnualSummary$Precip)
+cor(AnnualSummary$Pindem,AnnualSummary$Value)
+cor.test(AnnualSummary$Pindem,AnnualSummary$Value)
 cor.test(AnnualSummary$Indemnity,AnnualSummary$Value)
 
 cor(AnnualSummary$Panom,AnnualSummary$Indemnity)
