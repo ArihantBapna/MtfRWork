@@ -11,6 +11,7 @@ AnnualSummary <- cbind(AnnualSummary, AnnualPrecip)
 AnnualSummary <- select(AnnualSummary,-c(PLoss))
 remove(AnnualPrecip)
 remove(pLoss)
+write.csv(AnnualSummary,'AnnSum.csv')
 
 p <- ggplot(AnnualSummary,aes(y=AnnualSummary$Pindem))+
   geom_boxplot()
