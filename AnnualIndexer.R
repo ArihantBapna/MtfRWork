@@ -10,18 +10,23 @@ AnnualSummary <- cbind(AnnualSummary,"PLoss"=pLoss)
 AnnualSummary <- cbind(AnnualSummary, AnnualPrecip)
 AnnualSummary <- select(AnnualSummary,-c(PLoss))
 remove(AnnualPrecip)
+remove(pLoss)
 
-
-p <- ggplot(AnnualSummary,aes(x=AnnualSummary$Year,y=AnnualSummary$Pindem))+
+p <- ggplot(AnnualSummary,aes(y=AnnualSummary$Pindem))+
   geom_boxplot()
 
 p <- ggplotly(p)
 p
 cor(AnnualSummary$PLoss,AnnualSummary$Precip)
-cor.test(AnnualSummary$Precip,AnnualSummary$PLoss)
+cor.test(AnnualSummary$Indemnity,AnnualSummary$Value)
 
-fit <- lm(AnnualSummary$PLoss~AnnualSummary$Precip)
+cor(AnnualSummary$Panom,AnnualSummary$Indemnity)
+
+fit1 <- lm(AnnualSummary$Indemnity~AnnualSummary$Value + AnnualSummary$Precip)
+fit2 <- lm(AnnualSummary$Indemnity~AnnualSummary$Value)
 summary(fit)
-anova(fit)
+anova(fit1,fit2)
 chisq.test(AnnualSummary$Year, AnnualSummary$Indemnity)
-``
+step <- stepAIC(fit1,direction="both")
+step$anova
+
